@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PaathCounter.iml" filepath="$PROJECT_DIR$/PaathCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PaathCounter.iml" filepath="$PROJECT_DIR$/.idea/PaathCounter.iml" />
+      <module fileurl="file://E:\Android\Extra\PaathCounter\PaathCounter.iml" filepath="E:\Android\Extra\PaathCounter\PaathCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Android\Extra\PaathCounter\app\app.iml" filepath="E:\Android\Extra\PaathCounter\app\app.iml" />
     </modules>
   </component>
 </project>
