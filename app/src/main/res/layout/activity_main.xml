@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bkg"
+    tools:context="com.pa1jeswani.paathcounter.MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="196dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/editextstyle"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.356">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/etId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/editextstyle"
+            android:hint="Enter Phone"
+            android:inputType="phone"
+            android:textSize="34sp"
+            app:met_baseColor="#0ff"
+            app:met_clearButton="true"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelAnimating="true"
+            app:met_iconLeft="@android:drawable/ic_menu_call"
+            app:met_iconPadding="5dp"
+            app:met_primaryColor="#fff"
+            app:met_singleLineEllipsis="true"
+            app:met_textColorHint="#0ff" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/editextstyle"
+            android:hint="Enter Name"
+            android:inputType="textPersonName"
+            android:textSize="34sp"
+            app:met_baseColor="#0ff"
+            app:met_clearButton="true"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelAnimating="true"
+            app:met_iconLeft="@android:drawable/ic_menu_info_details"
+            app:met_primaryColor="#fff"
+            app:met_singleLineEllipsis="true"
+            app:met_textColorHint="#0ff" />
+    </LinearLayout>
+
+    <com.dd.processbutton.FlatButton
+        android:id="@+id/btnULogin"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="400dp"
+        android:fontFamily="serif-monospace"
+        android:text="LOG IN"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>

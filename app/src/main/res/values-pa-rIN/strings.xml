@@ -1,0 +1,1283 @@
+<resources>
+    <string name="app_name">Japji Saheb</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">\n\n\n ੴ ਸਿਤ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਿਨਰਭਉ ਿਨਰਵੈਰੁ</string>
+    <string name="title_activity_readpaath">readpaath</string>
+    <string name="tab_text_1">Gurmukhi</string>
+    <string name="tab_text_2">Hindi</string>
+    <string name="tab_text_3">English</string>
+    <string name="EnglishPath">\n\n\n
+        \n\nੴ sat naam kartaa purakh nirbha-o nirvair akaal moorat ajoonee saibhaN gur parsaad.
+        \nJap.
+\naad sach jugaad sach.
+\nhai bhee sach naanak hosee bhee sach. ||1||
+\n
+\nsochai soch na hova-ee jay sochee lakh vaar.
+\nchupai chup na hova-ee jay laa-ay rahaa liv taar.
+\nbhukhi-aa bhukh na utree jay bannaa puree-aa bhaar.
+\nsahas si-aanpaa lakh hohi ta ik na chalai naal.
+\nkiv sachi-aaraa ho-ee-ai kiv koorhai tutai paal.
+\nhukam rajaa-ee chalnaa naanak likhi-aa naal. ||1||
+\n
+\nhukmee hovan aakaar hukam na kahi-aa jaa-ee.
+\nhukmee hovan jee-a hukam milai vadi-aa-ee.
+\nhukmee utam neech hukam likh dukh sukh paa-ee-ah.
+\nknaa hukmee bakhsees ik hukmee sadaa bhavaa-ee-ah.
+\nhukmai andar sabh ko baahar hukam na ko-ay.
+\nnaanak hukmai jay bujhai ta ha-umai kahai na ko-ay. ||2||
+\n
+\ngaavai ko taan hovai kisai taan.
+\ngaavai ko daat jaanai neesaan.
+\ngaavai ko gun vadi-aa-ee-aa chaar.
+\ngaavai ko vidi-aa vikham veechaar.
+\ngaavai ko saaj karay tan khayh.
+\ngaavai ko jee-a lai fir dayh
+\ngaavai ko jaapai disai door.
+\ngaavai ko vaykhai haadraa hadoor.
+\nkathnaa kathee na aavai tot.
+\nkath kath kathee kotee kot kot.
+\ndaydaa day laiday thak paahi.
+\njugaa jugantar khaahee khaahi.
+\nhukmee hukam chalaa-ay raahu.
+\nnaanak vigsai vayparvaahu. ||3||
+\n
+\nakhahi mangahi dahi dahi daat karay daataar.
+\nfayr ke agai rakhee-ai jit disai darbaar.
+\nmuhou ke bolan bolee-ai jit sun Dharay pi-aar.
+\namrit vaylaa sach naa-o vadi-aa-ee veechaar.
+\nkarmee aavai kaprhaa nadree mokh du-aar.
+\nnaanak ayvai jaanee-ai sabh aapay sachiaar. ||4||
+\n
+\nthaapi-aa na jaa-ay keetaa na ho-ay
+\naapay aap niranjan so-ay.
+\njin sayvi-aa tin paa-i-aa maan.
+\nnaanak gaavee-ai gunee niDhaan.
+\ngaavee-ai sunee-ai man rakhee-ai bhaa-o.
+\ndukh parhar sukh ghar lai jaa-ay.
+\ngurmukh naadaN gurmukh vaydaN gurmukh rahi-aa samaa-ee.
+\ngur eesar gur gorakh barmaa gur paarbatee maa-ee.
+\njay ha-o jaanaa aakhaa naahee kahnaa kathan na jaa-ee.
+\nguraa ik dahi bujhaa-ee.
+\nsabhnaa jee-aa kaa ik daataa so mai visar na jaa-ee. ||5||
+\n
+\ntirath naavaa jay tis bhaavaa vin bhaanay ke naa-ay karee.
+\njaytee sirath upaa-ee vaykhaa vin karmaa ke milai la-ee
+\njay tis nadar na aavee ta vaat na puchhai kay.
+\nkeetaa andar keet kar dosee dos Dharay.
+\nnaanak nirgun gun karay gunvanti-aa gun day
+\ntayhaa ko-ay na sujh-ee je tis gun ko-ay karay. ||7||
+\n
+\nsuni-ai siDh peer sur naath.
+\nsuni-ai Dharat Dhaval aakaas. Listening-the earth, its support and the Akaashic ethers.
+\nsuni-ai deep lo-a paataal.
+\nsuni-ai pohi na sakai kaal
+\nnaanak bhagtaa sadaa vigaas
+\nsuni-ai dookh paap kaa naas. ||8||
+\n
+\nsuni-ai eesar barmaa ind.
+\nsuni-ai mukh saalaahan mand.
+\nsuni-ai jog jugat tan bhayd.
+\nsuni-ai saasat simrit vayd.
+\nnaanak bhagtaa sadaa vigaas.
+\nsuni-ai dookh paap kaa naas. ||9||
+\n
+\nuni-ai sat santokh gi-aan.
+\nsuni-ai athsath kaa isnaan.
+\nsuni-ai parh parh paavahi maan.
+\nsuni-ai laagai sahj Dhi-aan.
+\nnaanak bhagtaa sadaa vigaas.
+\nsuni-ai dookh paap kaa naas. ||10||
+\n
+\nsuni-ai saraa gunaa kay gaah
+\nsuni-ai saykh peer paatisaah.
+\nsuni-ai anDhay paavahi raahu.
+\nsuni-ai haath hovai asgaahu.
+\nnaanak bhagtaa sadaa vigaas.
+\nsuni-ai dookh paap kaa naas. ||11||
+\n
+\nmannay kee gat kahee na jaa-ay
+\njay ko kahai pichhai pachhutaa-ay.
+\nkaagad kalam na likhanhaar.
+\nmannay kaa bahi karan veechaar.
+\naisaa naam niranjan ho-ay.
+\njay ko man jaanai man ko-ay. ||12||
+\n
+\nmannai surat hovai man buDh
+\nmannai sagal bhavan kee suDh.
+\nmannai muhi chotaa naa khaa-ay
+\nmannai jam kai saath na jaa-ay.
+\naisaa naam niranjan ho-ay.
+\njay ko man jaanai man ko-ay. ||13||
+\n
+\nmannai maarag thaak na paa-ay.
+\nmannai pat si-o pargat jaa-ay.
+\nmannai mag na chalai panth.
+\nmannai Dharam saytee san-banDh.
+\naisaa naam niranjan ho-ay
+\njay ko man jaanai man ko-ay. ||14||
+\n
+\nmannai paavahi mokh du-aar.
+\nmannai parvaarai saaDhaar.
+\nmannai tarai taaray gur sikh.
+\nmannai naanak bhavahi na bhikh.
+\naisaa naam niranjan ho-ay.
+\njay ko man jaanai man ko-ay. ||15||
+\n
+\npanch parvaan panch parDhaan.
+\npanchay paavahi dargahi maan
+\npanchay sohahi dar raajaan.
+\npanchaa kaa gur ayk Dhi-aan.
+\njay ko kahai karai veechaar.
+\nkartay kai karnai naahee sumaar.
+\nDhoul Dharam da-i-aa kaa poot.
+\nsantokh thaap rakhi-aa jin soot.
+\njay ko bujhai hovai sachiaar.
+\nDhavlai upar kaytaa bhaar.
+\nDhartee hor parai hor hor.
+\ntis tay bhaar talai kavan jor
+\njee-a jaat rangaa kay naav.
+\nsabhnaa likhi-aa vurhee kalaam.
+\nayhu laykhaa likh jaanai ko-ay.
+\nlaykhaa likhi-aa kaytaa ho-ay.
+\nkaytaa taan su-aalihu roop.
+\nkaytee daat jaanai koun koot.
+\nkeetaa pasaa-o ayko kavaa-o.
+\ntis tay ho-ay lakh daree-aa-o.
+\nkudrat kavan kahaa veechaar.
+\nvaari-aa na jaavaa ayk vaar.
+\njo tuDh bhaavai saa-ee bhalee kaar.
+\ntoo sadaa salaamat nirankaar. ||16||
+\n
+\nasaNkh jap asaNkh bhaa-o.
+\nasaNkh poojaa asaNkh tap taa-o.
+\nasaNkh garanth mukh vayd paath.
+\nasaNkh jog man rahahi udaas.
+\nasaNkh bhagat gun gi-aan veechaar.
+\nasaNkh satee asaNkh daataar.
+\nasaNkh soor muh bhakh saar.
+\nasaNkh mon liv laa-ay taar.
+\nkudrat kavan kahaa veechaar.
+\nvaari-aa na jaavaa ayk vaar.
+\njo tuDh bhaavai saa-ee bhalee kaar.
+\ntoo sadaa salaamat nirankaar. ||17||
+\n
+\nasaNkh moorakh anDh ghor.
+\nasaNkh chor haraamkhor.
+\nasaNkh amar kar jaahi jor.
+\nasaNkh galvadh hati-aa kamaahi.
+\nasaNkh paapee paap kar jaahi.
+\nasaNkh koorhi-aar koorhay firaahi.
+\nasaNkh malaychh mal bhakh khaahi.
+\nasaNkh nindak sir karahi bhaar.
+\nnaanak neech kahai veechaar.
+\nvaari-aa na jaavaa ayk vaar.
+\njo tuDh bhaavai saa-ee bhalee kaar
+\ntoo sadaa salaamat nirankaar. ||18||
+\n
+\nasaNkh naav asaNkh thaav.
+\nagamm agamm asaNkh lo-a.
+\nasaNkh kehahi sir bhaar ho-ay
+\nakhree naam akhree saalaah.
+\nakhree gi-aan geet gun gaah.
+\nakhree likhan bolan baan.
+\nakhraa sir sanjog vakhaan.
+\njin ayhi likhay tis sir naahi.
+\njiv furmaa-ay tiv tiv paahi.
+\njaytaa keetaa taytaa naa-o.
+\nvin naavai naahee ko thaa-o.
+\nkudrat kavan kahaa veechaar.
+\nvaari-aa na jaavaa ayk vaar.
+\njo tuDh bhaavai saa-ee bhalee kaar.
+\ntoo sadaa salaamat nirankaar. ||19||
+\n
+\nbharee-ai hath pair tan dayh.
+\npaanee Dhotai utras khayh.
+\nmoot paleetee kaparh ho-ay.
+\nday saaboon la-ee-ai oh Dho-ay. soap can wash them clean.
+\nbharee-ai mat paapaa kai sang.
+\noh Dhopai naavai kai rang.
+\npunnee paapee aakhan naahi.
+\nkar kar karnaa likh lai jaahu.
+\naapay beej aapay hee khaahu.
+\nnaanak hukmee aavhu jaahu. ||20||
+\n
+\ntirath tap da-i-aa dat daan.
+\njay ko paavai til kaa maan.
+\nsuni-aa mani-aa man keetaa bhaa-o.
+\nantargat tirath mal naa-o
+\nsabh gun tayray mai naahee ko-ay.
+\nvin gun keetay bhagat na ho-ay.
+\nsu-asat aath banee barmaa-o.
+\nsat suhaan sadaa man chaa-o.
+\nkavan so vaylaa vakhat kavan kavan thit kavan vaar.
+\nkavan se rutee maahu kavan jit ho-aa aakaar.
+\nvayl na paa-ee-aa pandtee je hovai laykh puraan.
+\nvakhat na paa-i-o kaadee-aa je likhan laykh kuraan.
+\nthit vaar naa jogee jaanai rut maahu naa ko-ee.
+\naa kartaa sirthee ka-o saajay aapay jaanai so-ee.
+\nkiv kar aakhaa kiv saalaahee ki-o varnee kiv jaanaa.
+\nnaanak aakhan sabh ko aakhai ik doo ik si-aanaa.
+\nvadaa saahib vadee naa-ee keetaa jaa kaa hovai.
+\nnaanak jay ko aapou jaanai agai ga-i-aa na sohai. ||21||
+\n
+\npaataalaa paataal lakh aagaasaa aagaas.
+\norhak orhak bhaal thakay vayd kahan ik vaat.
+\nsahas athaarah kahan kataybaa asuloo ik Dhaat.
+\nlaykhaa ho-ay ta likee-ai laykhai ho-ay vinaas.
+\nnaanak vadaa aakhee-ai aapay jaanai aap. ||22||
+\n
+\nsaalaahee saalaahi aytee surat na paa-ee-aa.
+\nnadee-aa atai vaah pavahi samund na jaanee-ahi.
+\nsamund saah sultaan girhaa saytee maal Dhan.
+\nkeerhee tul na hovnee jay tis manhu na veesrahi. ||23|
+\n
+\nant na siftee kahan na ant.
+\nant na karnai dayn na ant.
+\nant na vaykhan sunan na ant.
+\nant na jaapai ki-aa man mant.
+\nant na jaapai keetaa aakaar.
+\nant na jaapai paaraavaar.
+\nant kaaran kaytay billaahi.
+\ntaa kay ant na paa-ay jaahi.
+\nayhu ant na jaanai ko-ay.
+\nbahutaa kahee-ai bahutaa ho-ay.
+\nvadaa saahib oochaa thaa-o
+\noochay upar oochaa naa-o.
+\nayvad oochaa hovai ko-ay.
+\ntis oochay ka-o jaanai so-ay.
+\njayvad aap jaanai aap aap.
+\nnaanak nadree karmee daat. ||24||
+\n
+\nbahutaa karam likhi-aa naa jaa-ay.
+\nvadaa daataa til na tamaa-ay.
+\nkaytay mangahi joDh apaar.
+\nkayti-aa ganat nahee veechaar.
+\nkaytay khap tutahi vaykaar.
+\nkaytay lai lai mukar paahi.
+\nkaytay moorakh khaahee khaahi.
+\nkayti-aa dookh bhookh sad maar.
+\nayhi bhe daat tayree daataar.
+\nband khalaasee bhaanai ho-ay.
+\nhor aakh na sakai ko-ay.
+\njay ko khaa-ik aakhan paa-ay.
+\noh jaanai jaytee-aa muhi khaa-ay.
+\naapay jaanai aapay day-ay.
+\naakhahi se bhe kay-ee kay-ay.
+\njis no bakhsay sifat saalaah.
+\nnaanak paatisaahee paatisaahu. ||25||
+\n
+\namul gun amul vaapaar.
+\namul vaapaaree-ay amul bhandaar.
+\namul aavahi amul lai jaahi.
+\namul bhaa-ay amulaa samaahi.
+\namul Dharam amul deebaan.
+\namul tul amul parvaan.
+\namul bakhsees amul neesaan.
+\namul karam amul furmaan.
+\namulo amul aakhi-aa na jaa-ay.
+\naakh aakh rahay liv laa-ay.
+\naakhahi vayd paath puraan.
+\naakhahi parhay karahi vakhi-aan.
+\naakhahi barmay aakhahi ind.
+\naakhahi gopee tai govind.
+\naakhahi eesar aakhahi siDh.
+\naakhahi kaytay keetay buDh.
+\naakhahi daanav aakhahi dayv.
+\naakhahi sur nar mun jan sayv.
+\nkaytay aakhahi aakhan paahi.
+\nkaytay kahi kahi uth uth jaahi.
+\naytay keetay hor karayhi.
+\ntaa aakh na sakahi kay-ee kay-ay.
+\njayvad bhaavai tayvad ho-ay.
+\nnaanak jaanai saachaa so-ay.
+\njay ko aakhai boluvigaarh.
+\ntaa likee-ai sir gaavaaraa gaavaar. ||26||\n
+
+so dar kayhaa so ghar kayhaa jit bahi sarab samaalay.\n
+vaajay naad anayk asankhaa kaytay vaavanhaaray.\n
+kaytay raag paree si-o kahee-an kaytay gaavanhaaray.\n
+gaavahi tuhno pa-un paanee baisantar gaavai raajaa Dharam du-aaray.\n
+gaavahi chit gupat likh jaaneh likh likh Dharam veechaaray.\n
+gaavahi eesar barmaa dayvee sohan sadaa savaaray.\n
+gaavahi ind idaasan baithay dayviti-aa dar naalay.\n
+gaavahi siDh samaaDhee andar gaavan saaDh vichaaray.\n
+gaavan jatee satee santokhee gaavahi veer karaaray.\n
+gaavan pandit parhan rakheesar jug jug vaydaa naalay.\n
+gaavahi mohnee-aa man mohan surgaa machh pa-i-aalay.\n
+gaavan ratan upaa-ay tayray athsath tirath naalay.\n
+gaavahi joDh mahaabal sooraa gaavahi khaanee chaaray.\n
+gaavahi khand mandal varbhandaa kar kar rakhay Dhaaray.\n
+say-ee tuDhuno gaavahi jo tuDh bhaavan ratay tayray bhagat rasaalay.\n
+hor kaytay gaavan say mai chit na aavan naanak ki-aa veechaaray.\n
+so-ee so-ee sadaa sach saahib saachaa saachee naa-ee.\n
+hai bhee hosee jaa-ay na jaasee rachnaa jin rachaa-ee.\n
+rangee rangee bhaatee kar kar jinsee maa-i-aa jin upaa-ee.\n
+kar kar vaykhai keetaa aapnaa jiv tis dee vadi-aa-ee.\n
+jo tis bhaavai so-ee karsee hukam na karnaa jaa-ee.\n
+so paatisaahu saahaa paatisaahib naanak rahan rajaa-ee. ||27||\n
+\n
+munda santokh saram pat jholee Dhi-aan kee karahi bibhoot.\n
+khinthaa kaal ku-aaree kaa-i-aa jugat dandaa parteet.\n
+aa-ee panthee sagal jamaatee man jeetai jag jeet.\n
+aadays tisai aadays.\n
+aad aneel anaad anaahat jug jug ayko vays. ||28||\n
+\n
+bhugat gi-aan da-i-aa bhandaaran ghat ghat vaajeh naad.\n
+aap naath naathee sabh jaa kee riDh siDh avraa saad.\n
+sanjog vijog du-ay kaar chalaaveh laykhay aavahi bhaag.\n
+aadays tisai aadays.\n
+aad aneel anaad anaahat jug jug ayko vays. ||29||\n
+\n
+aykaa maa-ee jugat vi-aa-ee tin chaylay parvaan.\n
+ik sansaaree ik bhandaaree ik laa-ay deebaan.\n
+jiv tis bhaavai tivai chalaavai jiv hovai furmaan.\n
+oh vaykhai onaa nadar na aavai bahutaa ayhu vidaan.\n
+aadays tisai aadays.\n
+aad aneel anaad anaahat jug jug ayko vays. ||30||\n
+\n
+aasan lo-ay lo-ay bhandaar.\n
+jo kichh paa-i-aa so aykaa vaar\n
+kar kar vaykhai sirjanhaar.\n
+naanak sachay kee saachee kaar.\n
+aadays tisai aadays.\n
+aad aneel anaad anaahat jug jug ayko vays. ||31||\n
+\n
+ik doo jeebhou lakh hohi lakh hoveh lakh vees.\n
+lakh lakh gayrhaa aakhee-ahi ayk naam jagdees\n
+ayt raahi pat pavrhee-aa charhee-ai ho-ay ikees\n
+sun galaa aakaas kee keetaa aa-ee rees.\n
+naanak nadree paa-ee-ai koorhee koorhai thees. ||32||\n
+\n
+aakhan jor chupai nah jor.\n
+jor na mangan dayn na jor.\n
+jor na jeevan maran nah jor.\n
+jor na raaj maal man sor.\n
+jor na surtee gi-aan veechaar.\n
+jor na jugtee chhutai sansaar.\n
+jis hath jor kar vaykhai so-ay.\n
+naanak utam neech na ko-ay. ||33||\n
+\n
+aatee rutee thitee vaar.\n
+pavan paanee agnee paataal.\n
+tis vich Dhartee thaap rakhee Dharam saal\n
+tis vich jee-a jugat kay rang.\n
+tin kay naam anayk anant.\n
+karmee karmee ho-ay veechaar.\n
+sachaa aap sachaa darbaar.\n
+tithai sohan panch parvaan.\n
+nadree karam pavai neesaan.\n
+kach pakaa-ee othai paa-ay.\n
+naanak ga-i-aa jaapai jaa-ay. ||34||\n
+\n
+Dharam khand kaa ayho Dharam.\n
+gi-aan khand kaa aakhhu karam.\n
+kaytay pavan paanee vaisantar kaytay kaan mahays.\n
+kaytay barmay ghaarhat gharhee-ahi roop rang kay vays.\n
+kaytee-aa karam bhoomee mayr kaytay kaytay Dhoo updays.\n
+kaytay ind chand soor kaytay kaytay mandal days.\n
+kaytay siDh buDh naath kaytay kaytay dayvee vays.\n
+kaytay dayv daanav mun kaytay kaytay ratan samund.\n
+kaytee-aa khaanee kaytee-aa banee kaytay paat narind.\n
+kaytee-aa surtee sayvak kaytay naanak ant na ant. ||35||\n
+\n
+\ngi-aan khand meh gi-aan parchand.
+\ntithai naad binod kod anand.
+\nsaram khand kee banee roop.
+\ntithai ghaarhat gharhee-ai bahut anoop.
+\ntaa kee-aa galaa kathee-aa naa jaahi.
+\njay ko kahai pichhai pachhutaa-ay.
+\ntithai gharhee-ai surat mat man buDh.
+\ntithai gharhee-ai suraa siDhaa kee suDh. ||36||
+\n
+\nkaram khand kee banee jor.
+\ntithai hor na ko-ee hor.
+\ntithai joDh mahaabal soor
+\ntin meh raam rahi-aa bharpoor.
+\ntithai seeto seetaa mahimaa maahi.
+\ntaa kay roop na kathnay jaahi.
+\nnaa ohi mareh na thaagay jaahi.
+\njin kai raam vasai man maahi.
+\ntithai bhagat vaseh kay lo-a.
+\nkarahi anand sachaa man so-ay.
+\nsach khand vasai nirankaar.
+\nkar kar vaykhai nadar nihaal.
+\ntithai khand mandal varbhand.
+\njay ko kathai ta ant na ant.
+\ntithai lo-a lo-a aakaar.
+\njiv jiv hukam tivai tiv kaar.
+\nvaykhai vigsai kar veechaar.
+\nnaanak kathnaa karrhaa saar. ||37||
+\n
+\njat paahaaraa Dheeraj suni-aar.
+\nahran mat vayd hathee-aar.
+\nbha-o khalaa agan tap taa-o.
+\nbhaaNdaa bhaa-o amrit tit dhaal.
+\ngharhee-ai sabad sachee taksaal.
+\njin ka-o nadar karam tin kaar.
+\nnaanak nadree nadar nihaal. ||38||
+\n
+\nShalok:
+\npavan guroo paanee pitaa maataa Dharat mahat.
+\ndivas raat du-ay daa-ee daa-i-aa khaylai sagal jagat.
+\nchang-aa-ee-aa buri-aa-ee-aa vaachai Dharam hadoor.
+\nkarmee aapo aapnee kay nayrhai kay door.
+\njinee naam Dhi-aa-i-aa ga-ay maskat ghaal.
+\nnaanak tay mukh ujlay kaytee chhutee naal. ||1||
+        \n\n
+</string>
+    <string name="GurmukhiPath">ਜਪੁਜੀ ਸਾਿਹਬ
+
+\n\nੴ ਸਤਿਨਾਮ ਦੀ ਕੁਰਬਾਨੀ ਨਿਰਭਉ-ਓ ਨਿਰਵੈਰ ਉੱਲੜ ਮੰਤਰ ਅਜ਼ੋਨੀ ਨੇ ਸਭ ਗੁਰ ਪ੍ਰਸਾਦਿ.\n
+ਜਾਪ\n
+ਆਦ ਸਚ ਜੁਗਾੜ ਸਚ\n
+ਹੈ ਭੀ ਸੇਛ ਨਨਕ ਹੋਸੇ ਭੀ ਸੇਫ. || 1 ||\n
+\n
+ਇਸ ਲਈ ਚਾਈ ਸੋਚ ਨਾ ਹੋਵਾਂ-ਏ ਜਾਏ ਸੋਚੇ ਲਖ ਵਹਾਦਰ.\n
+ਚਪਾਈ ਚੱਪ ਨਾ ਹੋਵਾਂ-ਏ ਜੇ ​​ਲਾਂ-ਏਅ ਰਹਿ ਗਿਆ ਰਹਿੰਦਾ ਹੈ.\n
+ਭੁਖੀ - ਏ ਭਾਖੋਂ ਉਤਰੈ ਜਨ ਬੰਨਾ ਪੁਇਟੇ - ਅਹਰ.\n
+ਸਹਸਾ si- ਅਪਰਖਾ ਲੱਖ ਹੋਤੀ ਟਾ ik ਨਾਚਾਲੀ ਨਾਵਲ\n
+ਕਿਵ ਸਾਚੀ-ਆਰਾ ਹੋ-ਏਈ-ਅਈ ਕੀ ਕੁੜਾਈ ਟੂਟਾਈ ਪਾਲ\n
+ਹੁਕਮ ਪਾਤਸ਼ਾਹ-ਏ ਚਲਨਾਅ ਨਾਨਾਕ ਵੀਹੀ-ਏ ਨਾਹਲ || 1 ||\n
+\n
+ਹੁਕਮੈ ਹੋਵਨ ਆਸਾਖ ਹੁਕਮ ਨਾ ਆਇਆ ਏਏ ਏ ਏ ਏ ਏ.\n
+ਹੋਕੇ ਹਾਂਨ ਜੀ-ਇੱਕ ਹੁਕਮ ਲੱਖਾਂ ਵਦੀ-ਏ-ਏਈ.\n
+ਹੂਕਮੇ ਉਤਮ ਨਿਏਕ ਹੁਕਮ ਪਸੰਦ ਡਿਖ ਸੁੱਕ ਪਾ-ਏ-ਆਹ\n
+ਕੀਨਾ ਹੋਕੇ ਬਖਸੀਜ਼ ik ਹੁਕਮੇ ਸੱਦ ਭਾਣੇ-ਏ-ਏਹ.\n
+ਹਕੂਮਈ ਅਤੇਰ ਸਭ ਕੋ ਜੋਹਰ ਹੁਕਮ ਨ ਕੋ-ਅਈ\n
+ਨਾਨਾਕ ਹੋਮਾਈ ਜੈ ਬੁੱਹੈ ਤਾ ਹੈ- ਉਮੈ ਕਹੀ ਨਾ ਕੋ-ਅਈ || 2 ||\n
+\n
+ਗਾਵੈ ਕੋ ਤਾਓ ਹੋਵਈ ਕਿਸਰਾ ਤਾਣ.\n
+ਗਾਵਾਈ ਕੋ ਦਾਤ ਜਾਨਾਈ ਨੀਸਾਨ\n
+ਗਾਵੈ ਕੋ ਗੋਡ ਵਦੀ-ਏ-ਏੇ-ਚੇਅਰ\n
+ਗਾਵੈ ਕੋ ਵਿਦਿਆ-ਅਯ ਵਿਖਿਆਹਿਤ.\n
+ਗਾਵੈ ਕੋ ਸਾਜ ਕਰਾਂ ਟੈਨ ਖ਼ੇਹ\n
+ਗਾਵਾਈ ਕੋ ਜੀ - ਇਕ ਲਾਈ ਫਾਈਰ ਦਿਨ\n
+ਗਾਵੈ ਕੋ ਜਾਾਪੀ ਦਾਂ ਦੇ ਦਰਵਾਜ਼ੇ.\n
+ਗਾਵਾਈ ਕਾ ਵੇਖੇਹ ਹਦਰਾ ਲੋਰੀਅਰ\n
+ਕਥਾ ਨਾ ਕਥਾ ਅਤੇ ਨਾਵੈ\n
+ਕੈਥ ਕਥ ਕਥੇ ਕੋਟੇ ਕੋਟ ਕੋਟ\n
+ਦਿਡਡਾ ਡੇ ਦਿਨ ਹਿੰਦ ਥਾਕ ਪਾਹੀ.\n
+ਜੁਗਾ ਜੁਗਤਰ ਖਹਿ ਖਹਿ.\n
+ਹੂਕਮੇ ਹੁਕਮ ਚਾਏ-ਆਯਾ ਰਹਾਉ\n
+ਨਾਨਾਕ ਵਿਗਾਸੈ ਵੇਪ੍ਰਪਾਲੁ || 3 ||\n
+\n
+ਅਖਾਹਿ ਮੰਜੀ ਦਹ ਦਹ ਦਾਤ ਕਰੈ ਡਾਟਾਰ.\n
+ਫੈਅਰ ਕੇ ਅਗਰ ਰਾਖੀ-ਏ ਜੀਤ ਕੁਆਇ ਦਰਬਾਰ\n
+ਮੁਊਹ ਕੇ ਬੋਲਾਨ ਬੋਲੀ-ਅਈ ਜੀਤ ਸੂਰਜ ਧਰੈ ਪੀਅਰ.\n
+ਅੰਮ੍ਰਿਤ ਵੈਲੈ ਸਾਚ ਨਾ-ਓ ਵadi-ਏ-ਵੇ ਵੇਚੀ.\n
+ਕਰਮੀ ਅਵਾਈ ਕ੍ਰਿਥ ਨਦਰਿ ਮੋਖ ਦੋ-ਅਾਰ\n
+ਨਨਕ ਅਯਾਵੈ ਜਾਨਾ-ਅਈ ਸਾਰੇ ਅਾਪੇ ਸਚਿਆਰੇ || 4 ||\n
+\n
+ਥਾਪੀ-ਏ ਦਾ ਨਾ ਜਾਵੇ-ਅਤ ਕੇਤਾਾ ਨਾ ਹੋ-ਅਈ\n
+ਆਪੇ ਆਪ ਨਿਰੰਜਨ ਸੋ-ਅਯ.\n
+ਜੇਨ ਦੇਵੀ-ਏ-ਤਿਨ ਪਾ-ਏ-ਏ ਮਾਨ\n
+ਨਾਨਾਕ ਗਾਵਈ-ਅਇ ਗਨਣੀ ਨਿਧੀਨ\n
+ਗਾਵਈ-ਅਈ ਸੁਨੀ-ਏਈ ਆਦਮੀ ਰਾਖੀ-ਆਭਾ-ਓ\n
+ਦੂਖ ਪਧਰ ਸੂਖ ਘਰ ਲਾਈ ਜਾਵੇ -\n
+ਗੁਰਮੁਖ ਨਾਦਿ ਜੀ ਗੁਰਮੁਖ ਵਾਯਦ ਨਾ ਗੁਰਮੁਖ ਰਹਿ-ਏ-ਸਮ-ਏ.\n
+ਗੁਰ ਏਸਾਰ ਗੁਰ ਗੋਰਖ ਬਿਰਮਾ ਗੁਰ ਪਾੱਰਬੇਟੇ ਮਆ-ਈ.\n
+ਜੈਕ ਹੈ-ਓ ਜਾਣਾ ਅਖਾ ਨਾਹੀ ਕਹਾਨਾ ਕਥਨ ਨਾ ਜਾਵੇ-ਈ.\n
+ਗੁਰਾ ik ਦਹ ਬੁਝੇ-ਈ.\n
+ਸੱਭਨਾ ਜੀ - ਏ ਕਾਅ ik ਡਾਟਾ ਸੋ ਮੇਰੀ ਵੀਰ ਨਾ ਜਾਵੇ - ਈ. || 5 ||\n
+\n
+ਤੀਰਥ ਨਾਵਾ ਜਾ ਤੈਨੂੰ ਭਾਵਾ ਵਿਨੈ ਕੇ ਨਾ- ਅਏ ਆਇਆ.\n
+ਜੈਤੇ ਸਿਰੀਤ ਉਪਿਆ-ਏ ਵੇਅਖਾ ਵਿਨ ਕਰਮ ਦੇ ਮਿਲਆ ਲਾ-ਏ ਈ\n
+ਜੇ ਉਹ ਨਿਸਾਰ ਨਾ ਅਵੇਈ ਤੱਤਾ ਨਾ ਪਿਆਚਰ ਹੈ.\n
+ਕੀਤਾ ਅਪਰ ਕੇੇ ਕਰੌਸ ਡੋਸ ਧਾਰੈ.\n
+ਨਨਕ ਨਿਰਗੁਣ ਤੋਪ ਕਰੌ ਗਨਵੰਟੀ-ਏ ਗਨ ਦਿਨ\n
+ਤੈਹਾ ਕੋ-ਆਦੇ ਸੁਜ-ਏ ਈਜ ਕੀ ਤੋਨਤ ਕੋ-ਏਏ ਕਰੈ. || 7 |\n
+\n
+ਸੁਨੀ ਅਏ ਸੀਹ ਪੀਅਰ ਸੁਰ ਨਾਥ\n
+ਸਨੀ ਅਏ ਧਰਤਰ ਅਵਾਯਾ. ਸੁਣਨਾ- ਧਰਤੀ, ਇਸਦਾ ਸਮਰਥਨ ਅਤੇ ਅਸਾਸ਼ਿਕ ਇੰਦਰ\n
+ਸਨੀ ਅਈ ਡੂੰਘੇ ਵੇਖੋ - ਇੱਕ ਪਾਯਾਤਲ\n
+ਸਨੀ ਅਈ ਪੋਹੀ ਨਾ ਸਕਾਈ ਕਾਲ\n
+ਨਨਕ ਭਗਤ ਸਦਾ ਵਿਦਗਾ\n
+ਸਨੀ ਅਈ ਦਾਉਚ ਪਾਪ ਕਾ ਨਾਸ. || 8 ||\n
+\n
+ਸਨੀ ਅਈ ਈਸਰ ਬਰਮਾ ਇਨ.\n
+ਸਨੀ ਅਈ ਮੁਖ ਸਲਾਮ ਹੋਂਦ\n
+ਸਨੀ ਤੇ ਜੋਗ ਜੁਗਤ ਤਾਨ ਭਈਦ\n
+ਸਨੀ ਅਈ ਸਾਸਤ ਸਿਮਟ ਵਯਡ\n
+ਨਨਕ ਭਗਤ ਸਦਾ ਵਿਦਗਾ.\n
+ਸਨੀ ਅਈ ਦਾਉਚ ਪਾਪ ਕਾ ਨਾਸ. || 9 ||\n
+\n
+ਅਣ-ਏਈ ਸਤਿ ਸੰਤੋਖ ਜੀ-ਆਨ.\n
+ਸਨੀਏ ਅਈਥਸਥ ਕਾ ਆਧਾਨਾਨ\n
+ਸਨੀ ਅਲੀ ਪਰਗ ਪਾਵਹਿ ਮਾਨ.\n
+ਸਨੀ ਅਈ ਲਾਂਗਾਈ ਸਹਜ ਦੀ -ਆਨ.\n
+ਨਨਕ ਭਗਤ ਸਦਾ ਵਿਦਗਾ.\n
+ਸਨੀ ਅਈ ਦਾਉਚ ਪਾਪ ਕਾ ਨਾਸ. || 10 ||\n
+\n
+ਸਨੀ ਅਈ ਸਰਾ ਗੁਣਾ ਕੇ ਗੈਹ    \n
+ਸ਼ੂਨਿ-ਅਈ ਸਿਖਿਆ ਪੀਅਰ ਪਾਤੀਸਾਜ\n
+ਸਨੀਏ ਅਈ ਦਿਨ ਪਾਪਵਾਹੀ ਰਹਾਉ\n
+ਸਨੀ ਅਹ ਸੋਹਹਾ ਨੇ\n
+ਨਨਕ ਭਗਤ ਸਦਾ ਵਿਦਗਾ.\n
+ਸਨੀ ਅਈ ਦਾਉਚ ਪਾਪ ਕਾ ਨਾਸ. || 11 ||\n
+\n
+ਮਨਨੇ ਕੀ ਗਤ ਕਾਹੀ ਨਾ ਜਾਇ\n
+ਜਾ ਕੋ ਕਾਈ ਪਿੱਚੀ ਪਾਠੁਤਾ-ਅਈ\n
+ਕਾਗਾਦ ਕਾਲਾਮੋਧੰਧਨ\n
+ਮੈਨਨ ਕਾ ਬਾਹਿ ਕਰਨਾ ਵੀਕਾਰ.\n
+ਅਸਾ ਨਾਮ ਨਿਰੰਜਨ ਹੋ-ਅਯ.\n
+ਜੈ ਕੋ ਮਾਨ ਜਾਨੈ ਮਨੁ ਕੋ-ਅਯ. || 12 ||\n
+\n
+ਮਾਨnai ਸੂਰਤ ਹੋਵਈ ਆਦਮੀ ਬੂਥ\n
+ਮਾਨnai ਸਗਾਲ ਭਵਨ ਕੀ ਸੁਥ\n
+ਮਾਨੈਈ ਮੁਹੀ ਚੋਠਾ ਨਾ ਖਾਂ-ਅਈ\n
+ਮਾਨੈਈ ਜੈਮ ਕੀ ਸੱਥ ਨਾ ਜਾਵੇ- ਅਈ\n
+ਅਸਾ ਨਾਮ ਨਿਰੰਜਨ ਹੋ-ਅਯ.\n
+ਜੈ ਕੋ ਮਾਨ ਜਾਨੈ ਮਨੁ ਕੋ-ਅਯ. || 13 ||\n
+\n
+ਮਾਨnai ਮਾਰਗ ਥਾਕ ਨਾ ਪਾ-ਅਈ\n
+ਮਾਨੈਈ ਪਟਿਆ ਸੀ-ਓ ਪ੍ਰਗਟ ਜਯਾ-ਏਈ\n
+ਮਾਨnai ਮੈਗ ਨਾ ਚਲੇ ਪੰਥ\n
+ਮਾਨnai ਧਰਮ ਨੇਤਾ ਸਮਾਜਿਕ ਬਨ ਡੇਹ\n
+ਅਸਾ ਨਾਮ ਨਿਰੰਜਨ ਹੋ-ਅਯ\n
+ਜੈ ਕੋ ਮਾਨ ਜਾਨੈ ਮਨੁ ਕੋ-ਅਯ. || 14 ||\n
+\n
+ਮਾਨੈਈ ਪਾਵਹਿ ਮੋਖ ਡੂ-ਅਾਰ.\n
+ਮਾਨੈਈ ਪਰਵੈਰਾ ਸਹਾਰਾ.\n
+ਮਾਨੈਈ ਤਰਾਈ ਤਾਰੇ ਗੁਰ ਸਿਖਾ.\n
+ਮਾਨnai ਨਾਨਕ ਦਾ ਭਵਹਿ ਨਾ ਭਿਖ\n
+ਅਸਾ ਨਾਮ ਨਿਰੰਜਨ ਹੋ-ਅਯ.\n
+ਜੈ ਕੋ ਮਾਨ ਜਾਨੈ ਮਨੁ ਕੋ-ਅਯ. || 15 ||\n
+\n
+ਪੰਚ ਜਾਨ ਪੰਚ ਪਾਰਦਰਸ਼ਨ\n
+ਪੰਚਾਇ ਪਾਵਾਹੀ ਦਰਗਾਹੀ ਮਾਨ\n
+ਪੰਚਾਇ ਸੋਹਿ ਹੁਣ ਰਾਜ\n
+ਪੰਚਾਇ ਕਾ ਗੁਰ ਕਿੱਕ ਦੀਆ-ਅੰਨ\n
+ਜਾ ਕੋ ਕਾਈ ਵੀਚਾਰੇਰ\n
+ਕਾਰਟਾਈ ਕਾਈ ਕਰਣੈ ਨਾਹੀ ਸੂਮਰ\n
+ਧੌਲ ਧਰਮ ਦਾ-i-aa ਕਾ ਪਾਟ.\n
+ਸੰਤੋਖ ਥਾਪ ਰਾਖੀ-ਏਨ ਜੌਨ ਸੂਟ\n
+ਜੈ ਕੋ ਬੁਝਾਈ ਹੋਵੈ ਸਚਿਆਰ\n
+ਧੱਵਲਾਈ ਦੇ ਕਤਰੇ ਭੌਰ\n
+ਧਾਰਤੀ ਘਰਾ\n
+ਤੀਸਰੇ ਭਾਰੇ ਤਲਵੈ ਕਵਨ ਜੋਰ\n
+ਜੀ-ਇੱਕ ਜੱਟ ਰੰਗਾ ਕਨੇ ਨਾਵ\n
+ਸੁੰਨਾ ਕੁਹੀ ਏ ਆਵਹਿ ਕਾਲਾਮ\n
+ਅਯੂ ਲੇਖਾ ਪਿਆਜ ਜਾਨਾਈ ਕੋ-ਏਈ\n
+ਲੇਖਾ-ਭਾਲੀ-ਏ ਕਾਇਆ ਹੋ-ਅਈ\n
+ਕੀਤਾ ਤਾਅਨ ਸੁ-ਅੱਲ੍ਹੂ ਰੂਪ\n
+ਕੀਤੀ ਦਾਤ ਜਾਨਾਈ ਕੌਨ ਕੀਤ.\n
+ਕੀਤਾ ਪਸਾਓ-ਓ ਕਾਕੋ-ਓ\n
+ਤੀਸਰੇ ਹੋ - ਅਇਆ ਲੱਖ ਦੈ ਆ ਆ\n
+ਕੁਦਰਤ ਕਵਨ ਕੱਪ ਵੀਚਾਰਾਰ\n
+ਵਾਰੇ-ਏ ਨ ਜੈ ਜਾਵੇ ਏਕ ਵਾਰ\n
+ਜੋ ਤੂੰ ਤੇਰੇ ਭਵੈ ਸਾਅ-ਏ ਭੇਲੇ ਕਾ.\n
+ਵੀ ਸਦਾ ਸਦਮਾਤ ਨਿਰੰਕਾਰ || 16 ||\n
+\n
+ਅਸਨਾਖ ਜਾਪ ਅਸਾ ਨਖ ਭਾਅ-ਓ\n
+ਅਸਨਾਖ ਪੂਜਾ ਅਸਾਖ ਟੈਪ ਟਾ-ਓ\n
+ਅਸਨਾਖ ਗਾਰੰਹ ਮੁਖ ਵੇਦ ਪਾਸ.\n
+ਅਸਨਾਖ ਜੌਗ ਮਨੁ ਰਹਾਹੀ ਉਦਾਾਸ\n.
+ਅਸਨਾਖ ਭਗਤ ਗਨ ਗੀ-ਆੱਨ ਵੀਚਾਰੇ\n
+ਅਸਨਾਖ ਸਾਟੇ ਅਸਨਾ ਨਿਖ ਦਾਤਾਰ\n
+ਅਸਨਾਖ ਸੂਰੁ ਮੁਹ ਭਾਖ ਸਰ.\n
+ਅਸਨਾਖ ਮੋਨ ਲਿਵ ਲਾਉਂ-ਅਈ ਤਰਾਰ\n
+ਕੁਦਰਤ ਕਵਨ ਕੱਪ ਵੀਚਾਰਾਰ\n
+ਵਾਰੇ-ਏ ਨ ਜੈ ਜਾਵੇ ਏਕ ਵਾਰ\n
+ਜੋ ਤੂੰ ਤੇਰੇ ਭਵੈ ਸਾਅ-ਏ ਭੇਲੇ ਕਾ.\n
+ਵੀ ਸਦਾ ਸਦਮਾਤ ਨਿਰੰਕਾਰ || 17 ||\n
+\n
+ਅਸਨਾ ਨਖ ਮੌਖਖ ਅਨਾਹ ਘੋੜ\n
+ਅਸਨਾ ਨਖ਼ ਚੋੋਰ ਹਰਾਮਖੋਰ\n
+ਅਸਨਾਖ ਅਮਰ ਕਰ ਜਾਹੀ ਜੋਰ\n
+ਅਸਨਾਖ ਗਲੀ ਵਹੱਦ ਹਾਤਿ ਏ ਕਿਾਮੀ\n
+ਅਸਨਾਕ ਪਾਏਪੀ ਪਾਪ ਕਾਰ ਜਾਇ.\n
+ਅਸਨਾਖ ਕੂਰ੍ਹੀ-ਅਰ ਕੁਫ਼ਰ ਰੇਈਰਾਹੀ.\n
+ਅਸਨਾਖ ਮਲਾ ਯਚਲ ਮਲ ਭਾਖ ਖਹਿ.\n
+ਅਸਨਾਖ ਨਿੰਦਕ ਸਰ ਕਰਹਾ ਭਰ\n
+ਨਾਨਾਕ ਨੇਕ ਕਹੀ ਵੇਚੀਆਰ\n
+ਵਾਰੇ-ਏ ਨ ਜੈ ਜਾਵੇ ਏਕ ਵਾਰ\n
+ਜੋ ਤੂੰ ਤੇਰੇ ਭਵੈ ਸਾਅ-ਏ ਭੇਲੇ ਕਾ\n
+ਵੀ ਸਦਾ ਸਦਮਾਤ ਨਿਰੰਕਾਰ || 18 ||\n
+\n
+ਅਸਾ ਨਖ ਨਾਮ ਅੱਸ ਨਖ਼ ਥਾਵ\n
+ਅਗੇਮ ਅਗਾਮ ਅਸਾ ਐਨਖ ਲੋ-ਏ.\n
+ਅਸਾ ਐਨਖ ਕੇਹਾਹਿ ਸਰ ਵਿਆਹੋਈ\n
+ਅਖਰੀ ਨਾਮ ਅਖਰੀ ਸਲਾਹਾ\n
+ਅਖਰੀ ਜੀ-ਆੈਨ ਗੀਤ ਗੰਨ ਗਾਹ.\n
+ਅਖਰੀ ਨਿਸ਼ਾਨ ਬੋਲਾਨ ਬਾਨ\n
+ਅਖ਼ੜਾ ਸਰ ਸਾਂਜੋਗ ਵਾਖਨ\n
+ਜਿਨ ਅਯਾ ਚਾਹੈ ਟਸ ਸ਼੍ਰੀ ਨਾਹੀ\n
+ਜੀਵ ਫੁਰਮਾਏ-ਏਏ ਟਿਵ ਟਿਵ ਪਾਏ.\n
+ਜਯਾ ਕੀ ਕੇਤਾ ਟਾਇਟੇ ਨਾ ਓ.\n
+ਵਿਨਾ ਨਾਵੈ ਨਾਹੀ ਕਾ ਥਾ-ਓ\n
+ਕੁਦਰਤ ਕਵਨ ਕੱਪ ਵੀਚਾਰਾਰ\n
+ਵਾਰੇ-ਏ ਨ ਜੈ ਜਾਵੇ ਏਕ ਵਾਰ\n
+ਜੋ ਤੂੰ ਤੇਰੇ ਭਵੈ ਸਾਅ-ਏ ਭੇਲੇ ਕਾ\n.
+ਵੀ ਸਦਾ ਸਦਮਾਤ ਨਿਰੰਕਾਰ || 19 ||\n
+\n
+ਭਰੀ-ਅਈ ਨੇ ਜੋੜੀ ਦੀ ਤਾਣ ਦਿਹਾੜੀ.\n
+ਪਾਈ ਧੋਂਤੇ ਉਰਫ ਖੈਹ\n
+ਮੁਟ ਪਲੀਤੇ ਕਪੂਰ ਹੈ-ਅਯ.\n
+ਦਿਨ ਸਾਓਬੂਨ ਲਾ-ਏ-ਅਈ ਓ ਢੋ-ਅਯ. ਸਾਬਣ ਨੂੰ ਸਾਫ਼ ਕਰ ਸਕਦੇ ਹੋ\n
+ਭਰਾਈ - ਅਤਿ ਮੀਟ ਪਾਪਾ ਕੇ ਸੰਗੀਤ\n
+ਓਹ ਧੋਪਈ ਨਾਵੈ ਕਾ ਰੰਗੀ\n
+ਪੁਣੇ ਪਪਾਿ ਅਖਨ ਨਾਹੀ\n
+ਕਾਰ ਕਾਰ ਕਰਨਾ ਪਸੰਦ ਹੈ\n
+ਆਪ ਜੀ ਬੀਜ ਹੈ ਉਹ ਖਾਹੁ\n
+ਨਨਕ ਹੋਕੇਏ ਅਹਿ ਜਹਾਯੂ. || 20 ||\n
+\n
+ਤੀਰਥ ਟੈਪ ਡਾ-ਏ-ਏ ਦਾ ਦਾਤ ਦਾਨ\n
+ਜੈ ਕੋ ਪਵਿਟੀ ਤਿਲ ਕਾ ਮਾਨ.\n
+ਸਨੀ ਏ ਏ ਮਨੀ ਏ ਏ ਮਨੁ ਕੀਤਾ ਭਾਂ-ਓ\n
+ਅੰਤਰਰਾਜ ਤੀਰਥ ਮਲ ਨਾ-ਓ\n
+ਸਭ ਤੋਪ ਤੈਰੇ ਮਾਈ ਨਾਹੀ ਕਾ-ਏਇ\n
+ਵਿਨ ਗਾਨ ਕੇਟੇ ਭਗਤ ਨਾ ਹੋ ਆਇ\n
+ਸੁ-ਅਸਤ ਅਤ ਬਾਣੀ ਬਰਮਾ-ਓ\n
+ਸਤਿ ਸੁਹਮਾਨ ਸਾਦਾ ਆਦਮੀ ਚਾਉ-ਓ\n
+ਕਵਨ ਹੈ ਤਾਂ ਵਹਿਲਾ ਵਖਾਤ ਕਵਨ ਕਵਨ ਥਿਤ ਕਾਨੇਰ ਵਾਰ\n
+ਕਵਾਨ ਸੇ ਰੁਤੈ ਮਹਿਾਹੀ ਕਵਨ ਜਿੱਤ ਹੋ - ਅੇਕਾਰ\n
+ਵੈਲ ਨਾ ਪਾਏ-ਏੇ-ਪਾਂਡੇ ਜੋ ਹੋਵ ਦੇ ਲੇਖੇ ਪੁਰਨੇ.\n
+ਵਖਾਤ ਨਾ ਪਾ-ਆ-ਕਾ ਕਵਿਤਾ - ਏ ਯੇਖਾਨ ਲੇਹ ਕੁਰਾਣਨ.\n
+ਥੀਟ ਵਾਰ ਨਾ ਤਾਂ ਜੋਗੀ ਜਾਨੈ ਰੂਥ ਮਾਹਾ ਨਾ ਕੋ-ਈੇ\n
+ਏ ਕਰਤੱ ਸਰਤਰੀ ਕਾ-ਓ ਸਾਜੈ ਆਪਾਂ ਜਾਨਾਈ ਸੋ-ਈ.\n
+ਕੀਰ ਕਾਰ ਅਖਾ ਕੇ ਸੱਲ੍ਹੀ ਕੀ-ਓ ਵੈਰੀ ਕਿਵ ਜਾਵੇ\n
+ਨਨਕ ਅਖਨ ਸਭ ਕੋ ਆਖਾਈ ਏਕੋ ਦੋ ਈਕੋ ਸੀ ਅਨਾ\n
+ਵਦਾ ਸਾਹਾਬ ਵਡੇ ਨਾ- ਏਈ ਕੀਤਾ ਜਾ ਕਾ ਹੋਵੈ.\n
+ਨਾਨਾਕ ਜੈ ਕੋ ਆਵੋ ਜਾਨਾ ਅਗਰ ਗਾ-ਏ-ਏ ਨ ਸੋਹਾਏ. || 21 || ||\n
+\n
+ਪਟਿਆਲਾ ਪਟਿਆਲ ਲੱਖ ਅਗਾਸਾ ਏਕਗਾਸ\n
+ਓਰਖ ਔਰਕ ਭਲ ਥਾਕੇ ਵੈਦ ਕਾਨ ik ਵਤ\n
+ਸਹਸ ਅਥਰਾਹ ਖਾਨ ਕਟੈਬਾ ਅਸੂਲੁ ik ਧਾਤ\n
+ਲੇਖਾਹਾ ਹੋ-ਅਈ ਤਾਇਕਈ-ਏਈ ਲੇਖਾਹਾ ਹੋ-ਅਈ ਵਿਨਾਸ\n
+ਨਨਕ ਵਡਯਾ ਆਹੀ-ਅਈ ਜਨੈ. || 22 || |\n
+\n
+
+ਸਲਾਇਹ ਸੈਲਾਹੀ ਅਤਿ ਸੂਟ ਨਾ ਪਾ-ਏਏ-ਏਏ.\n
+ਨਦੀ-ਏ ਅਤਿ ਵਹ ਪਾਵਲੀ ਸਮੂੰਦ ਨਾ ਜਣੀ-ਏਹੀ\n
+ਸਮੰਦ ਸਹਾ ਸੁਲਤਾਨ ਗਿਰ੍ਹਾ ਨੇਤਾ ਮੱਲ ਧੰਨ\n
+ਕੀਰਹੀ ਤੁੱਲ ਨਾ ਹੋਵਨੇ ਜੇ ਟਿੱਸ ਮੈਨੁ ਨਾ ਵਿਸਰੈ. || 23 |\n
+\n
+ਐਂਟੀ ਨਾ ਸਿਫਟੇ ਕਹਾਨ ਨਾ ਐਂਟੀ\n
+ਐਂਟੀ ਨਨ ਕਾਰਨੇ ਦਿਨ ਦਾ ਨਾ\n
+ਐਂਟੀ ਨਾ ਵਿਖੇਨ ਸਾਨਾਨ ਤੇ ਐਂਟੀ\n
+ਐਂਟੀ ਨਾ ਜੈਪਾਏ ਕੀ-ਏ ਮਨੁੱਖ ਮੰਤ\n
+ਐਂਟੀ ਨਾ ਜਾਾਪੀ ਕਿਤਾ ਆਕਾਰ\n
+ਐਂਟੀ ਨਾ ਜਾਪਾ ਪਾਰਾਵਾਰ\n
+ਐਂਟੀ ਕੇਸਾਨ ਬਿਲਾਾਹੀ\n
+ਟਾਂ ਕੀ ਅੰਨਤ ਨਾ-ਪਾਈ-ਆ-ਜਾਹਿ\n
+ਅਯੁ ਅਤ ਨਾ ਜਾਨੈ ਕੋ-ਅਯ\n
+ਭਰਤਾਰਾ ਕਾਹੀ-ਅਈ ਬਤੁਤਾ ਹੋ-ਅਯ\n
+ਵਦਾ ਸਾਹਾਬ ਹੋਚ ਥਾ-ਓ\n
+ਓਚੈ ਅਪਾਰ ਊਚਾ ਨਾਓ-ਓ\n
+ਅਯਵੱਦ ਹੋਚੁ ਹੋਵੈ ਕੋ-ਅਯ\n
+ਤੀਸ ਓਚਾਇ ਕਾ-ਓ ਜਾਨਾਈ ਏ-ਏਇ.\n
+ਜੈਵਦ ਆਪ ਜੁਆਨ ਆਪ.\n
+ਨਾਨਾਕ ਨਦਰਿ ਕਰਮੀ ਦਾਤ || 24 ||\n
+\n
+ਭਰਤਾ ਕਰਾਮ ਪਸੰਦ-ਏ ਨਾ ਜਾਵੇ-ਅਈ\n
+ਵਡਾ ਦਾਤਾ ਤਿਲ ਨਾ ਤਮਾ-ਏਈ\n
+ਕਟਟੇ ਮੰਗਾਹੋ ਜੋਧ ਅਪਾਰ\n
+ਕਟੀ-ਏ ਗਨਾਤ ਨਹ ਵੇਚੀ.\n
+ਕੈਟੇਯ ਖਾਪ ਤੱਤਹਿ ਵਯਕਾਰ\n
+ਕਟਟੇ ਲਾਇ ਮੱਚ ਪਾਏ.\n
+ਕਟਟੇ ਮਹੂਰਖ ਖਹਿ ਖਾਨਾ\n
+ਕਾਤੀ-ਏ ਦਾਉਕ ਭੂੰਖ ਉਦਾਸੀ ਮਰ.\n
+ਅਹੀ ਬਹਿ ਦਾਤ ਤਿਦੀ ਦੱਤਾ.\n
+ਬੈਂਡ ਖਾਲਾਸੀ ਭਾਣੇ ਹੋ-ਅਯ.\n
+ਹੌਰ ਅਹ ਨਾ ਸਕਾਈ ਕੋ-ਅਈ\n
+ਜਾ ਕੋ ਖਾਂ-ik ਅੱਕਾਨ ਪਾ-ਏ.\n
+ਓਹ ਜਨ ਗਿਆਤੈ-ਏ ਮੁਹੀ ਖਾਂ-ਅਈ\n
+ਆਪੇ ਜਾਨੈ ਅਾਪੇ ਦਿਨ - ਏ.\n
+ਅਖahi ਸੇਝ ਕੇ-ਏ ਕੇ-ਏਈ.\n
+ਜੇਸ ਨੋ ਬਖਸੇ ਸਿਫਟ ਸਲਾਹਾ\n
+ਨਨਕ ਪਾਤੀਸਾਧਿ ਪਾਤੀ ਈਸਾਉੂ|| 25 ||\n
+\n
+ਅਮੁਲ ਬੰਦੂਕ ਅਮੂਲ ਵਾਪਾੱਰ\n
+ਅਮੁਲ ਵਾਪਾ ਅਚਾਰ ਅਯੁਲ ਭਾਂਦਰ\n
+ਅਮੁਲ ਅਹਿਹੀ ਅਮੁਲ ਲਾਇ ਜਾਈ.\n
+ਅਮੁਲ ਭਾਅ ਅਈਮੁਲਾ ਸਿਮਾਹੀ.\n
+ਅਮੁਲ ਧਰਮ ਅਮੁਲ ਦੀਬਾਨ\n
+ਅਮੁਲ ਤੁਲ ਅਮੁਲ ਪਰਵਾਨ\n
+ਅਮੁਲ ਬਖਸੀਜ਼ ਅਮੂਲ ਨੀਸਾਨ\n
+ਅਮੁਲ ਕਾਰਮ ਅਮੁਲ ਫੁਰਮਨ\n
+ਅਮੁਲੋ ਅਮੁਲ ਅਖੀ-ਏ ਨ ਜਾਵੇ-ਅਈ\n
+ਏਕ ਖਖ ਲੀ ਲੀ ਲਾਏ\n
+ਅਖੀਹ ਪਹਿਚਾਣ ਪਾਥ ਪੁਰਨ\n
+ਅਖ਼ੀ ਗੱਲ ਕਰਹਿ ਵਖੀ-ਅੰਨ.\n
+ਏ ਅਹਿ ਬਰਮੈ ਆਖਹੀ ਇੰਡ.\n
+ਅਖਹੀ ਗੋਪੀ ਤਾਈ ਗੋਵਿੰਦ\n
+ਏਖਹੀ ਈਸਰ ਅਖਾਹਾ ਸਿਧ\n
+ਅਖੀਹ ਕੀਟੇ ਕੇਟੇ ਬਉ.\n
+ਅਖahi ਦਾਨਵ ਦਿਨੇ ਦਿਨ\n
+ਅਖਹਿ ਸੁਰੁ ਦੁਰ ਜਨਮ ਜਾਨ.\n
+ਕਟੈਅਖਹਿ ਅਖ਼ਾਂ ਪਾਹੀ.\n
+ਕੈਟੇ ਕੁਹੀ ਵੀ ਆਥ ਜਾਗੀ\n
+ਅਯਟੇ ਕੇਟੇ ਕਰੋੜੇ\n
+ਤਹਾ ਨਾ ਤਾਂ ਸਾਕਹੀ ਕੇ-ਏ ਕੇ-ਏਈ.\n
+ਜੈਵੁਦ ਭਵੈ ਤਿਆਵ ਹੋ-ਅਯ\n
+ਨਨਕ ਜਾਨਾਈ ਸਾਚਾ ਸੋ-ਅਯ\n.
+ਜੈ ਕੋ ਅਖਾਏ ਬੋਲਵਿਗਗਾੜ.\n
+ਤਾਈ ਵਰਗਾ - ਏi ਸੀਰ ਗਾਵਰਾ ਗਾਹਾਵਰ || 26 || ||\n
+\n
+ਇਸ ਲਈ ਦਰਿਆ ਖਾਈ ਸੋ ਘਰ ਦੀਆ ਜੇਠ ਭਾਅ ਸਰਬ ਸਮਲੇ.\n
+ਵਜੇ ਨਾਦ ਅਯੰਕਖਾ ਕਟਟੇ ਵਿਹੰਸਾਰ\n
+ਕੈਟੇ ਰਾਗ ਕਰੋ ਸੀ-ਓ ਖੇਲ-ਇਕ ਕਟਟੇ ਗੈਵਨਹੈ\n
+ਗਾਵਹ ਤਹੁ ਪਾਰੋਂ-ਇਕ ਪਾਣੇ ਬੇਸੰਤ ਗਾਵੈ ਰਾਜਾ ਧਰਮ ਦੁੱਰਾਇ.\n
+ਗਾਵਹੀ ਚਿਤ ਗੁਪੱਤ ਜਿਹੇ ਜਾਨ ਜੋਹੈ ਪਸੰਦ ਹੈ ਧਰਮ ਵੀਚਾਰੇਰਾ.\n
+ਗਾਵਹੀ ਈਸਰ ਬਰਮਾ ਦਿਨੇਵੀ ਸੋਹਨ ਸਢਾ ਸੰਵਾਰੇ\n
+ਗਾਵਹਿ ਇੰਦੁ ਇੰਦਸਾਨ ਬੇਇਥੇ ਦਿਨਿਵਿਟੀ -ਏ ਦਰ ਨਾਲੀ.\n
+ਗਾਵਹਿਸੀ ਸੀਘ ਸਿਮਾਧਿ ਅਦਰ ਗਵਾਨ ਸਾਅਧਹਿ ਰਾਤੇ.\n
+ਗਵਾਨ ਜਾਤੀ ਸਾਤੀ ਸਤੋਖੀ ਗਾਵਹਿ ਵੀਰ ਕਰਾਰਾ.\n
+ਗਵਣ ਪੰਡਤ ਧਰਨ ਰੇਸ਼ੇਰ ਜੱਗ ਜੁਗ ਵਾਦਾ ਨਾਲੀ.\n
+ਗਾਵਹਿ ਮੋਹਨੀ - ਏ ਮਾਨ ਮਹਾਜਨ ਸੁਰਗਪਾ ਮਾਧ ਪਾ-i-ਆਲੈ.\n
+ਗਾਵਣ ਰਤਨ ਉਪਤਾ - ਅਏ ਤਾਇਰੇ ਅਥੱਥ ਤੀਰਥ ਨਾਲੇ.\n
+ਗਾਵਹਿ ਜੋਧ ਮਹਾਂਬਾਲ ਸੋਰਾ ਗਾਵਹੀ ਖਾਨਾ ਚੈਰੈ.\n
+ਗਾਵਹਿ ਛੰਧਾ ਮੰਡਲ ਵੀਰਭੰਡਾਰਾ ਕਾਰ ਰੱਖਣੀ ਦਿਆਰ.\n
+ਕਹਿੰਦੇ-ਏਈ ਤੁੂਨੋ ਗਾਵਾਹੈ ਜੋ ਤੁਉ ਭਾਗ ਭਾਣੇ ਤਾਏ ਭਗਤ ਰਸਾਲੈ.\n
+ਹੌਰ ਕਿਟਟੇ ਗਵਾਨਾਂ ਕਹਿੰਦੇ ਹਨ ਕਿ ਮਾਈ ਚਿਤ ਨਾ ਅਵਨ ਨਨਕ ਕੀ-ਅੇ ਵੀ.\n
+ਇਸ ਲਈ ਏ ਐੱਸ ਏ ਏ ਸਦਸਾ ਸਚ ਸਾਹਾਬ ਸਾਚਾ ਸਾਚਾ ਨਾ- ਏ.\n
+ਹੈ ਭੀ ਹੋਸੇ ਜਾਏ - ਅੇ ਨਾ ਜਸੇ ਰਚਨਾ ਜ਼ਨ ਰਾਚਾ-ਏ.\n
+ਰੇਂਜ ਰੇਂਜ ਭਟੇਦੇ ਕਾਰ ਦੇ ਜਿੰਸੀ ਮਾਇਆ-ਏ-ਏ-ਜਨੇ ਉਪਿਆ-ਏ.\n
+ਕਾਰ ਦੇ ਵਾਈਕੈ ਕੀਤਾ ਆਪਾ ਜੀਵ ਟੀਸ ਦੇ ਵਦੀ-ਏ-ਏਈ.\n
+ਜੋ ਕਿ ਤਿੰਨ ਭਾਵੇ ਸੋ - ਏ ਕਾਰਸੀ ਹੁਕਮ ਨਾ ਕਰਾਂਗਾ - ਏ.\n
+ਇਸ ਲਈ ਪਾਠੀਸਾਜੁ ਸਾਹਾ ਪਾਤੀਸਾਏਹਬ ਨਾਨਾਕ ਨੇ ਰਾਜਾ-ਏ|| 27 || ||\n
+\n
+ਮੁੰਦਰਾ ਸੰਤੋਖ ਸਰਮ ਪਟ ਜੋਹਲੇ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਕਰਹਿ ਬਿਭਤ.\n
+ਖਿੰਤਾ ਕਾ ਕੁਰੀਅ ਕਾ-ਇ-ਜੁਗਤ ਡਾਂਡੇ ਭਾਗ\n
+ਅæੈਏ ਪਨੇਤੇ ਸਾਗਲ ਜਾਮਤੇ ਆਦਮੀ ਜਤੈ ਜੱਗ ਜੀਤ\n
+ਅਜ਼ਾਦੀ ਅੱਜ ਕੱਲ\n
+ਅਡ ਅਨੀਲ ਅਨਦ ਅਨਾਹਤ ਜੁਗ ਜੁਗ ਅਯਾਫਾ ਵੇਸੇ. || 28 || ||\n
+\n
+ਭਗਤ ਗੀ-ਆਨ ਦਾ-ਆਈ-ਏ-ਭਾਂਡੇਂ ਕੇਂਦਰ ਘ ਦੀ ਵਾਜੀਂ ਨਾਦ.\n
+ਆਪ ਨਾਥ ਨਾਹਥੇ ਸਭ ਜੀ ਦੀ ਦਲੀਲ ਸੀ ਧਾਂ ਅਵਰਾ ਸੜ.\n
+ਸਨਜੋਗ ਵਿਜੋਗ ਡੂ-ਅਈ ਕਾਰ ਚੇਲਾਵਹਿ ਲੇਖਾ ਏਵ ਭਾਈ ਭਾਗ.
+ਅਜ਼ਾਦੀ ਅੱਜ ਕੱਲ
+ਅਡ ਅਨੀਲ ਅਨਦ ਅਨਾਹਤ ਜੁਗ ਜੁਗ ਅਯਾਫਾ ਵੇਸੇ. || 29 ||
+
+ਅਯਾਕਾਰਾ ਮਾਂ-ਏ-ਜੁਗਤ ਵਿ-ਏ-ਏਇ ਟੀਨ ਚਲੇ ਪ੍ਰਵਾਨ.
+ਐਕ  ਸਾਨਾਸੇਰੀ ਐਕ ਭੰਡਰੀ ਏਕੇ ਲਾਏ ਡੀੇਬਾਏਨ
+ਜੀਵ ਟੀਸ ਭਵੈ ਤਿਵਾਈ ਚਲਾਵੈ ਜੀਵ ਹੋਵਈ ਫੁਰਮਨ
+ਓ ਵਾਹਕਾਈ ਓਨਾ ਨਾਦਰ ਨਾ ਆਵੈ ਬਤੁਤਾ ਅਯੁ ਵਿਵੇਦਨ.
+ਅਜ਼ਾਦੀ ਅੱਜ ਕੱਲ
+ਅਡ ਅਨੀਲ ਅਨਦ ਅਨਾਹਤ ਜੁਗ ਜੁਗ ਅਯਾਫਾ ਵੇਸੇ. || 30 ||
+
+ਅਸਾਨ ਲੋ-ਏ-ਲ-ਅਈ ਭਾਂਦਰ
+ਜੋ ਕਿੱਛ ਪਾ-ਏ-ਏ ਏ ਆਕਨਾ ਵਾਰ
+ਕਾਰ ਦੇ ਵਾਈਕਾਈ ਸਰਜਿਹਰ
+ਨਨਕ ਸਚੈ ਕੀ ਸਚਿਆ ਕਾਰ.
+ਅਜ਼ਾਦੀ ਅੱਜ ਕੱਲ
+ਅਡ ਅਨੀਲ ਅਨਦ ਅਨਾਹਤ ਜੁਗ ਜੁਗ ਅਯਾਫਾ ਵੇਸੇ. || 31 ||
+
+ik doo jeebhou ਲੱਖ ਹੋਲੀ ਲੱਖ ਹੋਵੇ ਲੱਖ ਲੱਖ
+ਲੱਖ ਲੱਖ ਗਾਇਕਾ ਅਖੀ-ਆਹੀ ਅਨਕ ਨਾਮ ਜਗੀਦਾਂ
+ਅਯਾਤ ਰਹਾਇਤ ਪਵਿਤਰੀ - ਏ ਹਰਿਈ-ਅਈ ਹੋ-ਅਈ ਆਇਕੇਸ
+ਸੂਰਜ ਗਰਾਲਾ ਆਕਾਸ ਕੀ ਕੇਤਾ ਏ-ਏੇ ਰੀਸ.
+ਨਾਨਾਕ ਨਦਰਿ ਪਾਏ-ਏ-ਅਈ ਕੁਰੀhai ਥੀਸ || 32 || ||
+
+ਅਖਨ ਜੋਰ ਚੂਪਾ ਨਾਹੋਰ
+ਜੋਰ ਨ ਮੰਗਣ ਦਿਨ ਨ ਜੋਰ
+ਜੋਰ ਨਾ ਜੀਵਣ ਮਾਰਨ ਨਾਹੋਰ
+ਜੋਰ ਨਾ ਰਾਜ ਮਾਲ ਮਨੁੱਖ sor.
+ਜੋਰ ਨਾ ਸੁਟੇ ਗੀ-ਅਾਨ ਵੀਤੇ.
+ਜੋਰੁ ਜੁਗੁਟੀ ਛੂਟਾਈ ਸਂਸਰ
+ਜੇਸ ਨੂੰ ਜੋਰ ਕਾਰ vaykhai so-ay ਹੈ
+ਨਨਕ ਉਤਮ ਨੇਕ ਨਾ ਕੋ-ਏਈ || 33 |
+
+ਅਤੀ ਰਸੇ ਥੀਤਿ ਵਾਰ\n
+ਪਵਨ ਪਾਨੀ ਅਗੇ ਪਟਿਆਲ.\n
+ਤੀਸ ਉਲਟ ਧਾਰਤੀ ਥਾਪ ਰਾਖੀ ਧਰਮ ਸਾਵਲ\n
+ਤੀਸ ਵਿਜ ਜੀ - ਇੱਕ ਜੁਗਤ ਕੇ ਰੰਗੀ\n
+ਟਿਨ ਕੇ ਨਾਮ ਅਨਕ ਅਨੰਤ\n
+ਕਰਮੀ ਕਰਮੀ ਹੋ-ਅਈ ਵੀਕਾਰ.\n
+ਸਚਾ ਆਪ ਸੇਚਾ ਦਰਬਾਰ\n
+ਤਿਥੈ ਸੋਹਨ ਪੰਚ ਪਰਵਾਨ\n
+ਨਦਰਿ ਕਰੋਮ ਪਵਾਏ ਨੀਸਾਨ\n
+ਕਾਚ ਪਾਕਾ-ਏਈ ਓਠਾਈ ਪਾ-ਅਈ\n
+ਨਾਨਾਕ ਗੈ-ਮੈਂ-ਏ ਜੈਪਾਈ ਜਾਵੇ- || 34 ||\n
+\n
+ਧਰਮ ਖੰਡ ਕਾ ਅਯੋ ਧਰਮ\n
+ਜੀ-ਆੱਨ ਖੰਡ ਕਾਆਖੁ ਕਾਰਾਮ\n
+ਕੈਟੇ ਪਵਨ ਪਾਏਣ ਵੈਸੇਂਤਰ ਕਟਟੇ ਕਨ ਮਹਾਏ.\n
+ਕੀ ਹੁਣ ਬਰਮੇਂ ਘੱਰਭ ਘਰੀਹੀ-ਅਹੀ ਰੂਪ ਰੋਮ ਕੇਅ ਵਿਜੇ\n
+ਕੀਟੀ-ਏ ਕਰਮ ਭੋਇਮੀ ਮੇਅਰ ਕਟਟੇ ਕੈਟੇ\n
+ਕੈਟੇਯ ਉਦ ਚੰਦ ਸੂਰੇ ਕਟਟੇ ਕਟਲੇ ਮੰਡਲ ਦਿਨ\n
+ਕੈਟੇ ਸੀਦ ਬੂ ਨਾਥ ਕਟਟੇ ਕਟ੍ਡੇ ਦਿਨਿੇ ਵੇਵੇ.\n
+ਕੈਟੇਯ ਦਿਨ ਦਾ ਦਾਵ ਮਨ ਕਟਟੇ ਕਟਟੇ ਰਤਨ ਸਮੰਦ\n
+ਕੀਤੇ-ਏ ਅਥਨੀ ਕਤਲੇਆ-ਏ ਬਾਣੇ ਕਟਥੇ ਪੈਤ narind\n
+ਕੀਤੇ-ਆਮੇਰ ਸਿਟੇਕ ਕਯਤੈ ਨਨਕ ਐਂਟੀ ਐਨ ਐਟ || 35 ||\n
+\n
+ਗੀ-ਅਾਨ ਖੰਧ ਮੇਹ-ਆਇਨ ਪੰਚੰਦ\n
+ਟਿਤੈ ਨਾਦ ਬਨੌਲੋ ਕਾਦ ਅਨੰਦ\n
+ਸਾਰਾਮ ਖੰਡ ਕੀ ਬਾਣੇ ਰੂਪ\n
+ਤਿਥੈ ਘਹਾੜੁ- ਅਈ ਬਹੂਟ ਅਨੂਪ.\n
+ਟੋਹ ਕੇ-ਏ ਗਾਲਾ ਕਥੇ-ਏਅ ਨਾ ਜਾਹਿ.\n
+ਜਾ ਕੋ ਕਾਈ ਪਿੱਚੀ ਪਾਠੁਤਾ-ਅਈ\n
+ਤੀਹੜੇ ਭਰੀ-ਅਲੀ ਸੂਰ ਜੀਤ ਬੂਥ\n
+ਤੀਹੜੇ ਭਰੀ-ਏਰੀ ਸੂਰਾ ਸੀਠ ਕੀ ਸੁਹ || 36 ||\n
+\n
+ਕਰਮ ਖੰਡ ਕੀ ਬਾਣੇ ਜੋਰ\n
+ਤਿਥੈ ਹੌਰ ਨਾ ਕੋ-ਏ ਹੌਰ\n
+ਟਾਈਟੈ ਜੋਧਾ ਮਹੇਬਾਲ ਸੋਆਰ\n
+ਟਿਨ ਮੇਹ ਰਾਮ ਰਹੀ-ਏ ਹਰਪੂਰ.\n
+ਤਿਥੈ ਸੀਤੋ ਸੇਤੇਤਾ ਮਹਿੱਈਆ ਗਾਂਧੀ\n
+ਤੈ ਕ ਰੋੜ ​​ਨਾ ਕੈਥਨੇ ਜਾਹਿ\n
+ਨਾ ਵੀ ਓ ਮਹੇ ਨ ਥਾਗਾ ਹੈ ਜਾਇ.\n
+ਜਿਨ ਕਾਈ ਰਾਮ ਵਸਾਈ ਆਦਮੀ maahi.\n
+ਤਿਥੈ ਭਗਤ ਵਾਸੇ ਕੀ ਲਏ-ਏ\n
+ਕਰਾਂਹਿ ਅਨੰਦ ਸਚਾ ਮਨੁੱਖ ਸੋ-ਅਯ.\n
+ਸਚ ਖੰਡ ਵਸਾਾਈ ਨਿਰੰਕਾਰ\n
+ਕਾਰ ਦੇ ਵਾਈਕੈ ਨਦਰ ਨਿਰਹਲ\n
+ਟਿਤੈ ਖੰਡ ਮੰਡਲ ਹਰਭੰਡ\n
+ਜੈ ਕੋ ਕਥਾਈ ਤੋ ਏਟ ਐਨ ਐਂਟੀ\n
+ਟਿਤਾਈ ਲੋਅ-ਇਕ ਲੋਅ ਇਕ ਆਕਾਰ.\n
+ਜੀਵ ਜੀਵ ਹੁਕਮ ਤਿਵਾਉਣ ਕਾ.\n
+ਵਾਹਕਾਈ ਵਿਗਾਸੀ ਕਾਰ ਵੀਚਰ\n
+ਨਨਕ ਕਠਨਾ ਕਰਾਹ ਸਦਰ || 37 ||\n
+\n
+ਜਾਤ ਪਾਹਾਰਾ ਧੀਰਜ ਸੁਨੀ-ਅਤਰ\n
+ਅਹਰਾਨ ਮੈਟ ਵਾਇਡ ਹਾਥੀ-ਅਾਰ\n
+ਭੋ-ਓ ਖਲਾ ਅਨਾਦਿ ਤਾਓ-ਓ\n
+ਭਾਂਦਾਦਾ ਭਾਅ-ਓ ਅੰਮ੍ਰਿਤ ਟਿਸ਼ ਧਾਲ\n.
+ਘਰੀਹੀ-ਅਈ ਸਾਬਾਧ ਤਾੱਕਸਾਲ.\n
+ਜਿਨ ਕਾ-ਓ ਨਦਰ ਕਰਮ ਤਿਨ ਕਾਰ.\n
+ਨਾਨਾਕ ਨਦਰਿ ਨਦਰਿ ਨਿਹਾਲ. || 38 ||\n
+\n
+ਸ਼ਲੋਕ:\n
+ਪਵਣੁ ਗੁਰੁ ਪਨੇਏ ਪਿਟਾ ਮਾਤਰਾ ਧਾਤ ਮਹਤ.\n
+ਦਿਵਸ ਰਾਤ ਦੋ-ਏਇ ਦਾ-ਦਾਦ-ਏ-ਏ ਅਹਿਲਾ ਸਗਲ ਜੱਗਤ.\n
+ਚਾਜ-ਏ-ਏੇ-ਏ-ਬੂਰੀ-ਏ-ਏੇ-ਏੇ ਬਚਨ ਧਰਮ ਧਰਮ\n
+ਕਰਮੀ ਆਪੋ ਆਪ ਕੇ ਕੀ ਨਵੇਂ ਰਾਹ ਦਾ ਦਰਵਾਜ਼ਾ.\n
+ਜਨੀ ਨਾਮ ਧੀ-ਏ-ਏ-ਏਏ ਗਾ-ਅਈ ਮੈਸਕ ਘਾਲ.\n
+| ਨਨਕ ਤਖ ਮੁਖ ਉਜਲੇ ਕੀਤੇ ਛਤੁ ਨੈੱਲ || 1 ||\n</string>
+    <string name="pawantext"><u> <i>Pawan Jeswani</i> </u></string>
+    <string name="gotext"><u>GoTech Services and  </u> </string>
+    <string name="hindiP">
+ੴ सति नामु करता पुरखु निरभउ निरवैरु अकाल मूरति अजूनी सैभं गुर प्रसादि ॥\n
+जपु ॥\n
+आदि सचु जुगादि सचु ॥\n
+है भी सचु नानक होसी भी सचु ॥१॥\n
+
+सोचै सोचि न होवई जे सोची लख वार ॥\n
+चुपै चुप न होवई जे लाइ रहा लिव तार ॥\n
+भुखिआ भुख न उतरी जे बंना पुरीआ भार ॥\n
+सहस सिआणपा लख होहि त इक न चलै नालि ॥\n
+किव सचिआरा होईऐ किव कूड़ै तुटै पालि ॥\n
+हुकमि रजाई चलणा नानक लिखिआ नालि ॥१॥\n
+
+हुकमी होवनि आकार हुकमु न कहिआ जाई ॥\n
+हुकमी होवनि जीअ हुकमि मिलै वडिआई ॥ \n
+हुकमी उतमु नीचु हुकमि लिखि दुख सुख पाईअहि ॥ \n
+इकना हुकमी बखसीस इकि हुकमी सदा भवाईअहि ॥\n
+हुकमै अंदरि सभु को बाहरि हुकम न कोइ ॥\n
+नानक हुकमै जे बुझै त हउमै कहै न कोइ ॥२॥ \n
+
+गावै को ताणु होवै किसै ताणु ॥\n
+गावै को दाति जाणै नीसाणु ॥ \n
+गावै को गुण वडिआईआ चार ॥\n
+गावै को विदिआ विखमु वीचारु ॥\n
+गावै को साजि करे तनु खेह ॥ \n
+गावै को जीअ लै फिरि देह ॥\n
+गावै को जापै दिसै दूरि ॥ \n
+गावै को वेखै हादरा हदूरि ॥ \n
+कथना कथी न आवै तोटि ॥ \n
+
+देदा दे लैदे थकि पाहि ॥ \n
+जुगा जुगंतरि खाही खाहि ॥ \n
+हुकमी हुकमु चलाए राहु ॥ \n
+नानक विगसै वेपरवाहु ॥३॥ \n
+साचा साहिबु साचु नाइ भाखिआ भाउ अपारु ॥\n
+आखहि मंगहि देहि देहि दाति करे दातारु ॥ \n
+फेरि कि अगै रखीऐ जितु दिसै दरबारु ॥ \n
+मुहौ कि बोलणु बोलीऐ जितु सुणि धरे पिआरु ॥ \n
+अम्रित वेला सचु नाउ वडिआई वीचारु ॥ \n
+करमी आवै कपड़ा नदरी मोखु दुआरु ॥ \n
+नानक एवै जाणीऐ सभु आपे सचिआरु ॥४॥\n
+\n
+थापिआ न जाइ कीता न होइ ॥ \n
+आपे आपि निरंजनु सोइ ॥ \n
+जिनि सेविआ तिनि पाइआ मानु ॥ \n
+नानक गावीऐ गुणी निधानु ॥ \n
+गावीऐ सुणीऐ मनि रखीऐ भाउ ॥\n
+दुखु परहरि सुखु घरि लै जाइ ॥ \n
+गुरमुखि नादं गुरमुखि वेदं गुरमुखि रहिआ समाई ॥ \n
+गुरु ईसरु गुरु गोरखु बरमा गुरु पारबती माई ॥ \n
+जे हउ जाणा आखा नाही कहणा कथनु न जाई ॥ \n
+गुरा इक देहि बुझाई ॥ \n
+सभना जीआ का इकु दाता सो मै विसरि न जाई ॥५॥\n
+ \n
+तीरथि नावा जे तिसु भावा विणु भाणे कि नाइ करी ॥ \n
+जेती सिरठि उपाई वेखा विणु करमा कि मिलै लई ॥ \n
+मति विचि रतन जवाहर माणिक जे इक गुर की सिख सुणी ॥ \n
+गुरा इक देहि बुझाई ॥ \n
+सभना जीआ का इकु दाता सो मै विसरि न जाई ॥६॥ \n
+\n
+जे जुग चारे आरजा होर दसूणी होइ ॥ \n
+नवा खंडा विचि जाणीऐ नालि चलै सभु कोइ ॥ \n
+चंगा नाउ रखाइ कै जसु कीरति जगि लेइ ॥ \n
+जे तिसु नदरि न आवई त वात न पुछै के ॥ \n
+कीटा अंदरि कीटु करि दोसी दोसु धरे ॥ \n
+नानक निरगुणि गुणु करे गुणवंतिआ गुणु दे ॥ \n
+तेहा कोइ न सुझई जि तिसु गुणु कोइ करे ॥७॥ \n
+\n
+सुणिऐ सिध पीर सुरि नाथ ॥ \n
+सुणिऐ धरति धवल आकास ॥ \n
+सुणिऐ दीप लोअ पाताल ॥ \n
+सुणिऐ पोहि न सकै कालु ॥ \n
+नानक भगता सदा विगासु ॥ \n
+सुणिऐ दूख पाप का नासु ॥८॥ \n
+\n
+सुणिऐ ईसरु बरमा इंदु ॥ \n
+सुणिऐ मुखि सालाहण मंदु ॥ \n
+सुणिऐ जोग जुगति तनि भेद ॥ \n
+सुणिऐ सासत सिम्रिति वेद ॥ \n
+नानक भगता सदा विगासु ॥\n
+सुणिऐ दूख पाप का नासु ॥९॥ \n
+\n
+सुणिऐ सतु संतोखु गिआनु ॥ \n
+सुणिऐ अठसठि का इसनानु ॥ \n
+सुणिऐ पड़ि पड़ि पावहि मानु ॥ \n
+सुणिऐ लागै सहजि धिआनु ॥ \n
+नानक भगता सदा विगासु ॥ \n
+सुणिऐ दूख पाप का नासु ॥१०॥ \n
+\n
+सुणिऐ सरा गुणा के गाह ॥ \n
+सुणिऐ सेख पीर पातिसाह ॥ \n
+सुणिऐ अंधे पावहि राहु ॥ \n
+सुणिऐ हाथ होवै असगाहु ॥ \n
+नानक भगता सदा विगासु ॥ \n
+सुणिऐ दूख पाप का नासु ॥११॥ \n
+\n
+मंने की गति कही न जाइ ॥ \n
+जे को कहै पिछै पछुताइ ॥ \n
+कागदि कलम न लिखणहारु ॥\n
+मंने का बहि करनि वीचारु ॥ \n
+ऐसा नामु निरंजनु होइ ॥ \n
+जे को मंनि जाणै मनि कोइ ॥१२॥ \n
+\n
+मंनै सुरति होवै मनि बुधि ॥ \n
+मंनै सगल भवण की सुधि ॥ \n
+मंनै मुहि चोटा ना खाइ ॥ \n
+मंनै जम कै साथि न जाइ ॥ \n
+ऐसा नामु निरंजनु होइ ॥ \n
+जे को मंनि जाणै मनि कोइ ॥१३॥ \n
+\n
+मंनै मारगि ठाक न पाइ ॥ \n
+मंनै पति सिउ परगटु जाइ ॥ \n
+मंनै मगु न चलै पंथु ॥ \n
+मंनै धरम सेती सनबंधु ॥ \n
+ऐसा नामु निरंजनु होइ ॥ \n
+जे को मंनि जाणै मनि कोइ ॥१४॥ \n
+\n
+मंनै पावहि मोखु दुआरु ॥ \n
+मंनै परवारै साधारु ॥ \n
+मंनै तरै तारे गुरु सिख ॥ \n
+मंनै नानक भवहि न भिख ॥\n
+ऐसा नामु निरंजनु होइ ॥ \n
+जे को मंनि जाणै मनि कोइ ॥१५॥ \n
+\n
+पंच परवाण पंच परधानु ॥ \n
+पंचे पावहि दरगहि मानु ॥ \n
+पंचे सोहहि दरि राजानु ॥ \n
+पंचा का गुरु एकु धिआनु ॥ \n
+जे को कहै करै वीचारु ॥ \n
+करते कै करणै नाही सुमारु ॥ \n
+धौलु धरमु दइआ का पूतु ॥ \n
+संतोखु थापि रखिआ जिनि सूति ॥ \n
+जे को बुझै होवै सचिआरु ॥ \n
+धवलै उपरि केता भारु ॥ \n
+धरती होरु परै होरु होरु ॥ \n
+तिस ते भारु तलै कवणु जोरु ॥\n
+जीअ जाति रंगा के नाव ॥ \n
+सभना लिखिआ वुड़ी कलाम ॥ \n
+एहु लेखा लिखि जाणै कोइ ॥ \n
+लेखा लिखिआ केता होइ ॥ \n
+केता ताणु सुआलिहु रूपु ॥ \n
+केती दाति जाणै कौणु कूतु ॥ \n
+कीता पसाउ एको कवाउ ॥ \n
+तिस ते होए लख दरीआउ ॥ \n
+कुदरति कवण कहा वीचारु ॥ \n
+वारिआ न जावा एक वार ॥ \n
+जो तुधु भावै साई भली कार ॥ \n
+तू सदा सलामति निरंकार ॥१६॥ \n
+\n
+असंख जप असंख भाउ ॥ \n
+असंख पूजा असंख तप ताउ ॥\n
+असंख गरंथ मुखि वेद पाठ ॥ \n
+असंख जोग मनि रहहि उदास ॥ \n
+असंख भगत गुण गिआन वीचार ॥ \n
+असंख सती असंख दातार ॥ \n
+असंख सूर मुह भख सार ॥ \n
+असंख मोनि लिव लाइ तार ॥ \n
+कुदरति कवण कहा वीचारु ॥ \n
+वारिआ न जावा एक वार ॥ \n
+Jo ṯuḏẖ bẖāvai sā▫ī bẖalī kār. \n
+तू सदा सलामति निरंकार ॥१७॥ \n
+\n
+असंख मूरख अंध घोर ॥ \n
+असंख चोर हरामखोर ॥ \n
+असंख अमर करि जाहि जोर ॥ \n
+असंख गलवढ हतिआ कमाहि ॥ \n
+असंख पापी पापु करि जाहि ॥ \n
+असंख कूड़िआर कूड़े फिराहि ॥ \n
+असंख मलेछ मलु भखि खाहि ॥ \n
+असंख निंदक सिरि करहि भारु ॥ \n
+नानकु नीचु कहै वीचारु ॥ \n
+वारिआ न जावा एक वार ॥ \n
+जो तुधु भावै साई भली कार ॥ \n
+तू सदा सलामति निरंकार ॥१८॥ \n
+\n
+असंख नाव असंख थाव ॥ \n
+अगम अगम असंख लोअ ॥ \n
+असंख कहहि सिरि भारु होइ ॥\n
+अखरी नामु अखरी सालाह ॥ \n
+अखरी गिआनु गीत गुण गाह ॥ \n
+अखरी लिखणु बोलणु बाणि ॥ \n
+अखरा सिरि संजोगु वखाणि ॥ \n
+जिनि एहि लिखे तिसु सिरि नाहि ॥\n
+जिव फुरमाए तिव तिव पाहि ॥ \n
+जेता कीता तेता नाउ ॥ \n
+विणु नावै नाही को थाउ ॥ \n
+कुदरति कवण कहा वीचारु ॥\n
+वारिआ न जावा एक वार ॥ \n
+जो तुधु भावै साई भली कार ॥ \n
+तू सदा सलामति निरंकार ॥१९॥ \n
+\n
+भरीऐ हथु पैरु तनु देह ॥ \n
+पाणी धोतै उतरसु खेह ॥ \n
+मूत पलीती कपड़ु होइ ॥ \n
+दे साबूणु लईऐ ओहु धोइ ॥ \n
+भरीऐ मति पापा कै संगि ॥ \n
+ओहु धोपै नावै कै रंगि ॥ \n
+पुंनी पापी आखणु नाहि ॥ \n
+करि करि करणा लिखि लै जाहु ॥ \n
+आपे बीजि आपे ही खाहु ॥ \n
+नानक हुकमी आवहु जाहु ॥२०॥ \n
+\n
+
+तीरथु तपु दइआ दतु दानु ॥ \n
+जे को पावै तिल का मानु ॥ \n
+सुणिआ मंनिआ मनि कीता भाउ ॥ \n
+अंतरगति तीरथि मलि नाउ ॥ \n
+सभि गुण तेरे मै नाही कोइ ॥ \n
+विणु गुण कीते भगति न होइ ॥ \n
+सुअसति आथि बाणी बरमाउ ॥ \n
+सति सुहाणु सदा मनि चाउ ॥ \n
+कवणु सु वेला वखतु कवणु कवण थिति कवणु वारु ॥ \n
+कवणि सि रुती माहु कवणु जितु होआ आकारु ॥ \n
+वेल न पाईआ पंडती जि होवै लेखु पुराणु ॥ \n
+वखतु न पाइओ कादीआ जि लिखनि लेखु कुराणु ॥ \n
+थिति वारु ना जोगी जाणै रुति माहु ना कोई ॥ \n
+जा करता सिरठी कउ साजे आपे जाणै सोई ॥ \n
+किव करि आखा किव सालाही किउ वरनी किव जाणा ॥ \n
+नानक आखणि सभु को आखै इक दू इकु सिआणा ॥ \n
+वडा साहिबु वडी नाई कीता जा का होवै ॥ \n
+नानक जे को आपौ जाणै अगै गइआ न सोहै ॥२१॥ \n
+\n
+पाताला पाताल लख आगासा आगास ॥ \n
+ओड़क ओड़क भालि थके वेद कहनि इक वात ॥ \n
+सहस अठारह कहनि कतेबा असुलू इकु धातु ॥ \n
+लेखा होइ त लिखीऐ लेखै होइ विणासु ॥ \n
+नानक वडा आखीऐ आपे जाणै आपु ॥२२॥ \n
+\n
+सालाही सालाहि एती सुरति न पाईआ ॥ \n
+नदीआ अतै वाह पवहि समुंदि न जाणीअहि ॥ \n
+समुंद साह सुलतान गिरहा सेती मालु धनु ॥ \n
+कीड़ी तुलि न होवनी जे तिसु मनहु न वीसरहि ॥२३॥ \n
+\n
+अंतु न सिफती कहणि न अंतु ॥ \n
+अंतु न करणै देणि न अंतु ॥ \n
+अंतु न वेखणि सुणणि न अंतु ॥ \n
+अंतु न जापै किआ मनि मंतु ॥ \n
+अंतु न जापै कीता आकारु ॥ \n
+अंतु न जापै पारावारु ॥ \n
+अंत कारणि केते बिललाहि ॥ \n
+ता के अंत न पाए जाहि ॥ \n
+एहु अंतु न जाणै कोइ ॥ \n
+बहुता कहीऐ बहुता होइ ॥ \n
+वडा साहिबु ऊचा थाउ ॥ \n
+ऊचे उपरि ऊचा नाउ ॥ \n
+एवडु ऊचा होवै कोइ ॥ \n
+तिसु ऊचे कउ जाणै सोइ ॥ \n
+जेवडु आपि जाणै आपि आपि ॥\n
+नानक नदरी करमी दाति ॥२४॥ \n
+\n
+बहुता करमु लिखिआ ना जाइ ॥ \n
+वडा दाता तिलु न तमाइ ॥ \n
+केते मंगहि जोध अपार ॥ \n
+केतिआ गणत नही वीचारु ॥\n
+केते खपि तुटहि वेकार ॥ \n
+केते लै लै मुकरु पाहि ॥ \n
+केते मूरख खाही खाहि ॥ \n
+केतिआ दूख भूख सद मार ॥\n
+एहि भि दाति तेरी दातार ॥ \n
+बंदि खलासी भाणै होइ ॥ \n
+होरु आखि न सकै कोइ ॥ \n
+जे को खाइकु आखणि पाइ ॥ \n
+ओहु जाणै जेतीआ मुहि खाइ ॥ \n
+आपे जाणै आपे देइ ॥ \n
+आखहि सि भि केई केइ ॥\n
+जिस नो बखसे सिफति सालाह ॥ \n
+नानक पातिसाही पातिसाहु ॥२५॥ \n
+\n
+अमुल गुण अमुल वापार ॥ \n
+अमुल आवहि अमुल लै जाहि ॥ \n
+अमुल भाइ अमुला समाहि ॥ \n
+अमुलु धरमु अमुलु दीबाणु ॥ \n
+अमुलु तुलु अमुलु परवाणु ॥ \n
+अमुलु बखसीस अमुलु नीसाणु ॥ \n
+अमुलु करमु अमुलु फुरमाणु ॥ \n
+अमुलो अमुलु आखिआ न जाइ ॥ \n
+आखि आखि रहे लिव लाइ ॥ \n
+आखहि वेद पाठ पुराण ॥ \n
+आखहि पड़े करहि वखिआण ॥ \n
+आखहि बरमे आखहि इंद ॥ \n
+आखहि गोपी तै गोविंद ॥ \n
+आखहि ईसर आखहि सिध ॥\n
+आखहि केते कीते बुध ॥ \n
+आखहि दानव आखहि देव ॥\n
+आखहि सुरि नर मुनि जन सेव ॥\n
+केते आखहि आखणि पाहि ॥ \n
+केते कहि कहि उठि उठि जाहि ॥ \n
+एते कीते होरि करेहि ॥ \n
+ता आखि न सकहि केई केइ ॥ \n
+जेवडु भावै तेवडु होइ ॥ \n
+नानक जाणै साचा सोइ ॥ \n
+जे को आखै बोलुविगाड़ु ॥ \n
+ता लिखीऐ सिरि गावारा गावारु ॥२६॥ \n
+\n
+सो दरु केहा सो घरु केहा जितु बहि सरब समाले ॥ \n
+वाजे नाद अनेक असंखा केते वावणहारे ॥ \n
+केते राग परी सिउ कहीअनि केते गावणहारे ॥ \n
+गावहि तुहनो पउणु पाणी बैसंतरु गावै राजा धरमु दुआरे ॥ \n
+गावहि चितु गुपतु लिखि जाणहि लिखि लिखि धरमु वीचारे ॥ \n
+गावहि ईसरु बरमा देवी सोहनि सदा सवारे ॥ \n
+गावहि इंद इदासणि बैठे देवतिआ दरि नाले ॥ \n
+गावहि सिध समाधी अंदरि गावनि साध विचारे ॥ \n
+गावनि जती सती संतोखी गावहि वीर करारे ॥ \n
+गावनि पंडित पड़नि रखीसर जुगु जुगु वेदा नाले ॥\n
+गावहि मोहणीआ मनु मोहनि सुरगा मछ पइआले ॥ \n
+गावनि रतन उपाए तेरे अठसठि तीरथ नाले ॥ \n
+गावहि जोध महाबल सूरा गावहि खाणी चारे ॥ \n
+गावहि खंड मंडल वरभंडा करि करि रखे धारे ॥ \n
+सेई तुधुनो गावहि जो तुधु भावनि रते तेरे भगत रसाले ॥ \n
+होरि केते गावनि से मै चिति न आवनि नानकु किआ वीचारे ॥ \n
+सोई सोई सदा सचु साहिबु साचा साची नाई ॥ \n
+है भी होसी जाइ न जासी रचना जिनि रचाई ॥ \n
+रंगी रंगी भाती करि करि जिनसी माइआ जिनि उपाई ॥ \n
+करि करि वेखै कीता आपणा जिव तिस दी वडिआई ॥ \n
+जो तिसु भावै सोई करसी हुकमु न करणा जाई ॥ \n
+सो पातिसाहु साहा पातिसाहिबु नानक रहणु रजाई ॥२७॥ \n
+\n
+मुंदा संतोखु सरमु पतु झोली धिआन की करहि बिभूति ॥ \n
+खिंथा कालु कुआरी काइआ जुगति डंडा परतीति ॥ \n
+आई पंथी सगल जमाती मनि जीतै जगु जीतु ॥ \n
+आदेसु तिसै आदेसु ॥ \n
+आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥२८॥ \n
+\n
+भुगति गिआनु दइआ भंडारणि घटि घटि वाजहि नाद ॥ \n
+आपि नाथु नाथी सभ जा की रिधि सिधि अवरा साद ॥ \n
+संजोगु विजोगु दुइ कार चलावहि लेखे आवहि भाग ॥ \n
+आदेसु तिसै आदेसु ॥ \n
+आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥२९॥ \n
+\n
+एका माई जुगति विआई तिनि चेले परवाणु ॥ \n
+इकु संसारी इकु भंडारी इकु लाए दीबाणु ॥ \n
+जिव तिसु भावै तिवै चलावै जिव होवै फुरमाणु ॥ \n
+ओहु वेखै ओना नदरि न आवै बहुता एहु विडाणु ॥ \n
+आदेसु तिसै आदेसु ॥ \n
+आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥३०॥ \n
+\n
+आसणु लोइ लोइ भंडार ॥ \n
+जो किछु पाइआ सु एका वार ॥ \n
+करि करि वेखै सिरजणहारु ॥ \n
+नानक सचे की साची कार ॥ \n
+आदेसु तिसै आदेसु ॥ \n
+आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥३१॥ \n
+\n
+इक दू जीभौ लख होहि लख होवहि लख वीस ॥ \n
+लखु लखु गेड़ा आखीअहि एकु नामु जगदीस ॥ \n
+एतु राहि पति पवड़ीआ चड़ीऐ होइ इकीस ॥ \n
+सुणि गला आकास की कीटा आई रीस ॥ \n
+नानक नदरी पाईऐ कूड़ी कूड़ै ठीस ॥३२॥ \n
+\n
+आखणि जोरु चुपै नह जोरु ॥ \n
+जोरु न मंगणि देणि न जोरु ॥ \n
+जोरु न जीवणि मरणि नह जोरु ॥\n
+जोरु न राजि मालि मनि सोरु ॥ \n
+जोरु न सुरती गिआनि वीचारि ॥ \n
+जोरु न जुगती छुटै संसारु ॥ \n
+जिसु हथि जोरु करि वेखै सोइ ॥\n
+नानक उतमु नीचु न कोइ ॥३३॥ \n
+\n
+राती रुती थिती वार ॥ \n
+पवण पाणी अगनी पाताल ॥ \n
+तिसु विचि धरती थापि रखी धरम साल ॥ \n
+तिसु विचि जीअ जुगति के रंग ॥ \n
+तिन के नाम अनेक अनंत ॥ \n
+करमी करमी होइ वीचारु ॥ \n
+सचा आपि सचा दरबारु ॥ \n
+तिथै सोहनि पंच परवाणु ॥ \n
+नदरी करमि पवै नीसाणु ॥ \n
+कच पकाई ओथै पाइ ॥ \n
+नानक गइआ जापै जाइ ॥३४॥ \n
+\n
+धरम खंड का एहो धरमु ॥ \n
+गिआन खंड का आखहु करमु ॥ \n
+केते पवण पाणी वैसंतर केते कान महेस ॥ \n
+केते बरमे घाड़ति घड़ीअहि रूप रंग के वेस ॥ \n
+केतीआ करम भूमी मेर केते केते धू उपदेस ॥ \n
+केते इंद चंद सूर केते केते मंडल देस ॥ \n
+केते सिध बुध नाथ केते केते देवी वेस ॥ \n
+केते देव दानव मुनि केते केते रतन समुंद ॥\n
+केतीआ खाणी केतीआ बाणी केते पात नरिंद ॥\n
+केतीआ सुरती सेवक केते नानक अंतु न अंतु ॥३५॥ \n
+\n
+गिआन खंड महि गिआनु परचंडु ॥ \n
+तिथै नाद बिनोद कोड अनंदु ॥ \n
+सरम खंड की बाणी रूपु ॥ \n
+तिथै घाड़ति घड़ीऐ बहुतु अनूपु ॥ \n
+ता कीआ गला कथीआ ना जाहि ॥ \n
+जे को कहै पिछै पछुताइ ॥ \n
+तिथै घड़ीऐ सुरति मति मनि बुधि ॥ \n
+तिथै घड़ीऐ सुरा सिधा की सुधि ॥३६॥ \n
+\n
+करम खंड की बाणी जोरु ॥ \n
+तिथै होरु न कोई होरु ॥ \n
+तिथै जोध महाबल सूर ॥ \n
+तिन महि रामु रहिआ भरपूर ॥ \n
+तिथै सीतो सीता महिमा माहि ॥ \n
+ता के रूप न कथने जाहि ॥ \n
+ना ओहि मरहि न ठागे जाहि ॥ \n
+जिन कै रामु वसै मन माहि ॥ \n
+तिथै भगत वसहि के लोअ ॥ \n
+करहि अनंदु सचा मनि सोइ ॥ \n
+सच खंडि वसै निरंकारु ॥ \n
+करि करि वेखै नदरि निहाल ॥\n
+तिथै खंड मंडल वरभंड ॥ \n
+जे को कथै त अंत न अंत ॥ \n
+तिथै लोअ लोअ आकार ॥ \n
+जिव जिव हुकमु तिवै तिव कार ॥ \n
+वेखै विगसै करि वीचारु ॥ \n
+नानक कथना करड़ा सारु ॥३७॥ \n
+\n
+जतु पाहारा धीरजु सुनिआरु ॥ \n
+अहरणि मति वेदु हथीआरु ॥ \n
+भउ खला अगनि तप ताउ ॥ \n
+भांडा भाउ अम्रितु तितु ढालि ॥ \n
+घड़ीऐ सबदु सची टकसाल ॥ \n
+जिन कउ नदरि करमु तिन कार ॥ \n
+नानक नदरी नदरि निहाल ॥३८॥ \n
+\n
+
+
+सलोकु ॥ \n
+पवणु गुरू पाणी पिता माता धरति महतु ॥ \n
+दिवसु राति दुइ दाई दाइआ खेलै सगल जगतु ॥ \n
+चंगिआईआ बुरिआईआ वाचै धरमु हदूरि ॥ \n
+करमी आपो आपणी के नेड़ै के दूरि ॥ \n
+जिनी नामु धिआइआ गए मसकति घालि ॥\n
+नानक ते मुख उजले केती छुटी नालि ॥१॥\n\n
+
+</string>
+    <string name="footer">Sewa mein: Adi Amma Group, Dhan Guru Nanak Darbar Dera Sant Baba Thariya Singh Saheb Ji,
+        Ulhasnagar-3, Thane, Maharashtra. \n Contact: 9320055100\n\nPowered By - </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

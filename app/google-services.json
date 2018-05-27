@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326115871618",
+    "firebase_url": "https://paathcounter.firebaseio.com",
+    "project_id": "paathcounter",
+    "storage_bucket": "paathcounter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326115871618:android:1e29b71fef5c4318",
+        "android_client_info": {
+          "package_name": "com.pa1jeswani.paathcounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326115871618-9hql6m60hlf4htjtf1mpuicbln1gkjst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pa1jeswani.paathcounter",
+            "certificate_hash": "cc0476053439e8085f11c3b2e8ccd74e510f96c7"
+          }
+        },
+        {
+          "client_id": "326115871618-erv02vv0mrqlbuj1jut84hh623vf5s6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBYPTsgPQDv18Jo5hVrDtcs4VVKjkxk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326115871618-erv02vv0mrqlbuj1jut84hh623vf5s6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
